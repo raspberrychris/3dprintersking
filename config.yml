@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://3dprintersking.com"
 title: 3D Printers King
 paginate: 5
 theme: PaperMod
@@ -66,7 +66,7 @@ outputs:
 params:
     env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
     description: "Discover the very best Kayak to buy with our honest reviews at Kayaktobuy.com!"
-    author: 3D Printers King
+    author: Best Kayak To Buy
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
