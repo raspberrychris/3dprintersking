@@ -65,8 +65,11 @@ outputs:
 
 params:
     env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
-    description: "Discover the very best Kayak to buy with our honest reviews at Kayaktobuy.com!"
-    author: Best Kayak To Buy
+    description: "3D Printers King is the best place to find your next 3D Printer.  We try and test our 3D printers and take them through their paces to find the best ones, so you don't have to!
+    
+    About the Author: Hi My name is Chris and I am the main writer for 3D Printers King and has been into 3D Printing for the last couple of years.  I hope you enjoy the blog!
+    "
+    author: 3D Printers King
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
