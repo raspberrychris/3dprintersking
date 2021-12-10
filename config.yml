@@ -98,7 +98,7 @@ params:
 
     homeInfoParams:
         Title: "3D Printers King"
-        Content: > Welcome to 3D Printers King.com.  3D Printers King is the best place to find your next 3D Printer."
+        Content: > Welcome to 3D Printers King.com!
 
     cover:
       hidden: false # hide everywhere but not in structured data
