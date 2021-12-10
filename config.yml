@@ -98,16 +98,7 @@ params:
 
     homeInfoParams:
         Title: "3D Printers King"
-        Content: > Welcome to 3D Printers King.com.  
-        
-        3D Printers King is the best place to find your next 3D Printer. 
-        We try and test our 3D printers and take them through their paces to find the 
-        best ones, so you don't have to! 
-        
-        About the Author - Hi My name is Chris and I am the main writer for 
-        3D Printers King and has been into 3D Printing for the last couple of years.  
-        
-        I hope you enjoy the blog!  Check out our posts below."
+        Content: > Welcome to 3D Printers King.com.  3D Printers King is the best place to find your next 3D Printer."
 
     cover:
       hidden: false # hide everywhere but not in structured data
