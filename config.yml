@@ -98,8 +98,12 @@ params:
 
     homeInfoParams:
         Title: "3D Printers King"
-        Content: > Welcome to 3D Printers King.com!
+        Content: > 
+            Welcome to 3dprintersking.com where we help you to make the right choice when purchasing your next 3D Printer!  
+            
+            My name is Chris and I got into 3D Printing over the last couple of years, since then I have been documenting my findings on 3D Printing into this blog to share my opinion and reviews of the different 3D Printers out there.
 
+            Check out our posts below. I hope you enjoy the site!
     cover:
       hidden: false # hide everywhere but not in structured data
       hiddenInList: false # hide on list pages and home
