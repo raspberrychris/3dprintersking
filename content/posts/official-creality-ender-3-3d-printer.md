@@ -5,6 +5,7 @@ ShowReadingTime = true
 TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
+categories = "Comgrow"
 comments = false
 date = 2021-12-11T00:00:00Z
 description = ""
@@ -14,7 +15,7 @@ hideSummary = false
 hidemeta = false
 searchHidden = false
 showToc = true
-tags = ["Comgrow", "Review"]
+tags = ["Review"]
 title = "Official Creality Ender 3 3D Printer - The Best 3D Printer For Beginners?"
 [cover]
 alt = "Official Creality Ender 3 3D Printer Fully Open Source with Resume Printing Function DIY 3D Printers Printing Size 220x220x250mm"
