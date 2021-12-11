@@ -79,3 +79,5 @@ Yes, check out this video below:
 The [**Official Creality Ender 3 3D Printer **](#)represents good value for money and it is relatively easy to get up and started with this 3D Printer.  The 3D Printer includes spare parts with it which is really useful.  There is also software provided to handle STL files.
 
 Some customers who bought this 3D printer have said that the instructions could be improved.
+
+Overall the print quality on [**Official Creality Ender 3 3D Printer **](#) is fantastic for the money.  We think this 3D printer represents real value for money and the features at this price point make it the perfect 3D printer for beginners.  It is easy to use and there are only a few things we would improve.  The fact that all the tools are included to make the build yourself makes this straight forward.  Some customers have complained that the instructions could be improved, but in our opinion this is a minor point and shouldn't detract from the overall score for this popular 3D printer.
