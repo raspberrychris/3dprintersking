@@ -49,7 +49,7 @@ In terms of the features of the [**Official Creality Ender 3 3D Printer**](#), c
 * **Safety Protected Power Supply:** Only needs 5 minutes for hot bed to reach 110 degree.
 * **Strict Test:** Strict testing for key components before delivery and life-time technical supports available.
 * **Suitable for Kids** this kit is semi assembled meaning it represents a good gift for kids to help them learn about the basic construction of 3D Printers
-* **High Quality Printing** 
+* **High Quality Printing**
 
 > Customers who have bought the [**Official Creality Ender 3 3D Printer **](#)say it is easy to assemble, has a good and sturdy build quality, represents good value for money and is easy 3D printer to use.  Some customers even go as far as to call it a "Phenomenal Printer"!
 
@@ -67,6 +67,10 @@ Yes, check out this video below:
 
 ## Verdict
 
+**4/5** 
+
+⭐⭐⭐⭐
+
 The [**Official Creality Ender 3 3D Printer **](#)represents good value for money and it is relatively easy to get up and started with this 3D Printer.  The 3D Printer includes spare parts with it which is really useful.  There is also software provided to handle STL files.
 
-Some customers who bough this 3D printer have said that the instructions could be improved
+Some customers who bought this 3D printer have said that the instructions could be improved.
