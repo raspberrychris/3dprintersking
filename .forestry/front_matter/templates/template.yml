@@ -85,3 +85,5 @@ fields:
   - type: boolean
     name: appendFilePath
     label: appendFilePath
+pages:
+- content/posts/official-creality-ender-3-3d-printer.md
