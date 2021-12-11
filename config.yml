@@ -46,7 +46,7 @@ languages:
                   url: "/categories/"
                   weight: 30
                 - name: Reviews
-                  url: "/tags/reviews"
+                  url: "/tags/review"
                   weight: 40
                 - name: Affiliate Disclosure
                   url: "/affiliate-disclosure/"
