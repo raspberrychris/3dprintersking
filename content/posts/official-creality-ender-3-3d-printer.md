@@ -20,7 +20,7 @@ title = "Official Creality Ender 3 3D Printer - The Best 3D Printer For Beginner
 alt = "Official Creality Ender 3 3D Printer Fully Open Source with Resume Printing Function DIY 3D Printers Printing Size 220x220x250mm"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/f1e822d8-7bc6-4947-854d-d65084413b5a-__cr0-0-970-600_pt0_sx970_v1___.jpg"
 relative = false
 [editPost]
 Text = ""
@@ -49,7 +49,12 @@ In terms of the features of the [**Official Creality Ender 3 3D Printer**](#), c
 * **Safety Protected Power Supply:** Only needs 5 minutes for hot bed to reach 110 degree.
 * **Strict Test:** Strict testing for key components before delivery and life-time technical supports available.
 * **Suitable for Kids** this kit is semi assembled meaning it represents a good gift for kids to help them learn about the basic construction of 3D Printers
-* **High Quality Printing**
+
+![Suitable for Kids ](https://m.media-amazon.com/images/S/aplus-media/sc/3dc0ea23-f0b2-49c8-89c9-b245da43ceb1.__CR0,0,300,300_PT0_SX300_V1___.jpg)
+
+* **High Quality Printing** the quality of the printing is extremely high precision and you can be sure that when creating models that you will get a good results.
+
+![High Precision Printing](https://m.media-amazon.com/images/S/aplus-media/sc/ab8242d4-fd60-40bc-a4fd-910349c4766e.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
 > Customers who have bought the [**Official Creality Ender 3 3D Printer **](#)say it is easy to assemble, has a good and sturdy build quality, represents good value for money and is easy 3D printer to use.  Some customers even go as far as to call it a "Phenomenal Printer"!
 
