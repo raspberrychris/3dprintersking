@@ -90,6 +90,7 @@ fields:
     label: appendFilePath
 pages:
 - content/posts/anycubic-mega-s-upgrade-fdm-3d-printer.md
+- content/posts/anycubic-wash-and-cure-station.md
 - content/posts/creality-ender-3-pro-3d-printer-with-removable-build-surface-plate-and-ul-certified-meanwell-power-supply.md
 - content/posts/flashforge-adventurer-3-3d-printer.md
 - content/posts/official-creality-ender-3-v2-3d-3d-printer.md
