@@ -30,3 +30,4 @@ URL = ""
 appendFilePath = false
 
 +++
+![Official Creality Ender 3 V2 3D Printer Upgraded Integrated Structure Design with Silent Motherboard MeanWell Power Supply an](https://images-na.ssl-images-amazon.com/images/I/61Jg1UeOkKL._AC_UL604_SR604,400_.jpg)
