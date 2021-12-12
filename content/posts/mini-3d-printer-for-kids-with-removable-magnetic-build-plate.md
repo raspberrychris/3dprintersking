@@ -16,7 +16,7 @@ hideSummary = false
 hidemeta = false
 searchHidden = false
 showToc = true
-tags = ["Review", "Review"]
+tags = ["Review"]
 title = "Mini 3D Printer for Kids with Removable Magnetic Build Plate"
 [cover]
 alt = ""
