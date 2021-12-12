@@ -88,3 +88,5 @@ fields:
   - type: boolean
     name: appendFilePath
     label: appendFilePath
+pages:
+- content/posts/creality-ender-3-pro-3d-printer-with-removable-build-surface-plate-and-ul-certified-meanwell-power-supply.md
