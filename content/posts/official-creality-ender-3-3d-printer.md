@@ -60,7 +60,7 @@ In terms of the features of the [**Official Creality Ender 3 3D Printer**](https
 
 ![High Precision Printing](https://m.media-amazon.com/images/S/aplus-media/sc/ab8242d4-fd60-40bc-a4fd-910349c4766e.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
-> Customers who have bought the [**Official Creality Ender 3 3D Printer **](#)say it is easy to assemble, has a good and sturdy build quality, represents good value for money and is easy 3D printer to use.  Some customers even go as far as to call it a "Phenomenal Printer"!
+> Customers who have bought the [**Official Creality Ender 3 3D Printer**](https://www.amazon.com/gp/product/B07BR3F9N6/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BR3F9N6&linkId=fcd2c640d9aaea4c9573d26bebc6a13f) say it is easy to assemble, has a good and sturdy build quality, represents good value for money and is easy 3D printer to use.  Some customers even go as far as to call it a "Phenomenal Printer"!
 
 ## Who are Comgrow?
 
