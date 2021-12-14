@@ -35,6 +35,8 @@ In this review we will be having a look at the [**ANYCUBIC Mega S Upgrade FDM 3D
 
 What you get here is a very well constructed 3D printer that has been thoughtfully designed.  So how good actually is this 3D printer?  In this review we will take it through its paces and find out!
 
+{{< amazon-ads >}}
+
 ## **What do customers who bought this 3D printer think of it?**
 
 Customers who have bought the [**ANYCUBIC Mega S Upgrade FDM 3D Printer **](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267)have commented on its high quality build design, the fact that it is easy to assemble and everything is included right out of the box.  They also comment on the high quality tech support - important if you get lost trying to put it together!  Overall most customers on Amazon.com who bought this 3D printer would highly recommend it.  64% of the 2000+ Customers who bought the [**ANYCUBIC Mega S Upgrade FDM 3D Printer **](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267)have rated this 3D printer 5/5 stars.
