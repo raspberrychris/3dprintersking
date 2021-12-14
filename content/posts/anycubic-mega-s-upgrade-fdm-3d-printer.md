@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "ANYCUBIC Mega S Upgrade FDM 3D Printer"
 [cover]
-alt = ""
+alt = "Anycubic mega s upgrade FDM 3d Printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-33.png"
 relative = false
 [editPost]
 Text = ""
