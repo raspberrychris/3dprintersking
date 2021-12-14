@@ -31,15 +31,15 @@ appendFilePath = false
 +++
 ![ANYCUBIC Mega S Upgrade FDM 3D Printer with Extruder and Suspended Filament Rack + Free Test PLA Filament, Works with TPU/PLA](https://images-na.ssl-images-amazon.com/images/I/71nTuXg4MRS._AC_UL604_SR604,400_.jpg)
 
-In this review we will be having a look at the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](#).  For those of you who are not familiar with the brand, [**ANYCUBIC**](/categories/anycubic) started out making parts for 3D Printers and realised over the course of several years that they could actually make their own 3D Printers that were better than the competition!
+In this review we will be having a look at the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267).  For those of you who are not familiar with the brand, [**ANYCUBIC**](/categories/anycubic) started out making parts for 3D Printers and realised over the course of several years that they could actually make their own 3D Printers that were better than the competition!
 
 What you get here is a very well constructed 3D printer that has been thoughtfully designed.  So how good actually is this 3D printer?  In this review we will take it through its paces and find out!
 
 ## **What do customers who bought this 3D printer think of it?**
 
-Customers who have bought the [**ANYCUBIC Mega S Upgrade FDM 3D Printer **](#)have commented on its high quality build design, the fact that it is easy to assemble and everything is included right out of the box.  They also comment on the high quality tech support - important if you get lost trying to put it together!  Overall most customers on Amazon.com who bought this 3D printer would highly recommend it.  64% of the 2000+ Customers who bought the [**ANYCUBIC Mega S Upgrade FDM 3D Printer **](#)have rated this 3D printer 5/5 stars.
+Customers who have bought the [**ANYCUBIC Mega S Upgrade FDM 3D Printer **](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267)have commented on its high quality build design, the fact that it is easy to assemble and everything is included right out of the box.  They also comment on the high quality tech support - important if you get lost trying to put it together!  Overall most customers on Amazon.com who bought this 3D printer would highly recommend it.  64% of the 2000+ Customers who bought the [**ANYCUBIC Mega S Upgrade FDM 3D Printer **](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267)have rated this 3D printer 5/5 stars.
 
-## [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](#) **Who is it for?**
+## [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267) **Who is it for?**
 
 ![mega s](https://m.media-amazon.com/images/S/aplus-media/sc/8a1ab259-8b64-4be5-919b-aa47c937b4c7.__CR0,0,970,600_PT0_SX970_V1___.jpg)
 
@@ -73,7 +73,7 @@ Patented 3D printer printing platform surface coated with patented microporous c
 
 ![TFT Screen](https://m.media-amazon.com/images/S/aplus-media-library-service-media/06365bb8-9e11-4c25-abfb-c684ebec6127.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
-1. TFT Touch Screen-As responsive as operating on the phone. 
+1. TFT Touch Screen-As responsive as operating on the phone.
 2. All ANYCUBIC 3D printers backed with lifetime technical support and 24 hours professional customer service
 
 **Specifications**
@@ -85,6 +85,6 @@ Patented 3D printer printing platform surface coated with patented microporous c
 
 ## Our Verdict
 
-The [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](#) represents fantastic value for money and the print quality is also fantastic at this price point.  This 3D Printer by ANYCUBIC is suitable for beginners and assembly is as easy as screwing in a few screws and connecting a few cables, but if you get stuck it also comes with tech support for peace of mind to help you get started.  
+The [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267) represents fantastic value for money and the print quality is also fantastic at this price point.  This 3D Printer by ANYCUBIC is suitable for beginners and assembly is as easy as screwing in a few screws and connecting a few cables, but if you get stuck it also comes with tech support for peace of mind to help you get started.
 
-One nice feature that we really like is the touch screen, it makes the 3D Printer very intuitive to use.  In terms of reliability a lot of customers report having no issues what so ever with the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](#)**.**
+One nice feature that we really like is the touch screen, it makes the 3D Printer very intuitive to use.  In terms of reliability a lot of customers report having no issues what so ever with the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267)**.**
