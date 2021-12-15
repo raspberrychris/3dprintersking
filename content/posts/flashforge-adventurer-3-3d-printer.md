@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
@@ -32,7 +32,7 @@ appendFilePath = false
 +++
 ![FlashForge Adventurer 3 3D Printer Auto Leveling Quick Removable Nozzle High Precision](https://images-na.ssl-images-amazon.com/images/I/616t5icIdJS._AC_UL604_SR604,400_.jpg)
 
-In this review we will take a look at the [**Flashforge Adventurer 3 3D printer**](#).  This 3D printer is 
+In this review we will take a look at the [**FlashForge Adventurer 3 3D printer**](#).  This 3D printer has auto levelling, very quiet printing (around 50 decibels according to FlashForge) and also comes with a detachable nozzle.  It also has other thoughtful features such as having a camera built in, so you can monitor your prints from your phone and also pause or abort printing if you need to via WiFi.  The FlashForge 3 3D printer is also equipped to take a variety of different Filaments: From PLA,ABS,PETG to Copper PLA.
 
 In terms of customer opinion around this product it has less reviews than some of the other 3D printers that we have looked at, but it 
 
