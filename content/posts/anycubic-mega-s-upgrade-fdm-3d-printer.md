@@ -87,6 +87,10 @@ Patented 3D printer printing platform surface coated with patented microporous c
 
 ## Our Verdict
 
+**4/5**
+
+⭐⭐⭐⭐
+
 The [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267) represents fantastic value for money and the print quality is also fantastic at this price point.  This 3D Printer by ANYCUBIC is suitable for beginners and assembly is as easy as screwing in a few screws and connecting a few cables, but if you get stuck it also comes with tech support for peace of mind to help you get started.
 
 One nice feature that we really like is the touch screen, it makes the 3D Printer very intuitive to use.  In terms of reliability a lot of customers report having no issues what so ever with the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=514b8bf2f49b82ea65b9aec1264f2267)**.**
