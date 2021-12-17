@@ -36,9 +36,9 @@ appendFilePath = false
 
 In this review we will take a look at the [**FlashForge Adventurer 3 3D printer**](#).  This 3D printer comes with a variety of desirable features and has auto levelling, very quiet printing (around 50 decibels according to [**FlashForge**](#)) and also comes with a detachable nozzle.  It also has other thoughtful features such as having a built in camera, so you can monitor your prints directly from your phone, and also pause or abort printing if you need to via WiFi.  The [**FlashForge 3 3D printer**](#) is also equipped to take a variety of different Filaments: From PLA,ABS,PETG to Copper PLA.  All in all, this 3D printer straight from the outset has a wealth of interesting features in our opinion.
 
-[**Click here to jump to the Flashforge Adventurer 3 Product  Listing on Amazon.com…**](#)
+[**Click here to jump to the FlashForge Adventurer 3 Product  Listing on Amazon.com…**](#)
 
-## What is the Flashforge Adventurer 3?
+## What is the FlashForge Adventurer 3?
 
 The [**FlashForge Adventurer 3**](#) is one of the most popular 3D Printers currently on the market.. In this review we will take a closer look at how the [**FlashForge Adventurer 3 3D**](#) Printer performs and understand how it compares to other 3D Printers available on the market.
 
@@ -58,7 +58,7 @@ Printing will be suspended automatically when filament is broken or used up, and
 
 ### **STEM Educational**
 
-Best 3d printers for beginners,super quiet,the sound of operation is 50 decibels. A fun STEM educational experience in mechanical engineering and electronics
+A fun STEM educational experience in mechanical engineering and electronics
 
 ### **What is included?**
 
