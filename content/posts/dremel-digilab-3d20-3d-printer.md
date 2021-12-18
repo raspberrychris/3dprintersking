@@ -32,7 +32,9 @@ appendFilePath = false
 +++
 ![Dremel Digilab 3D20 3D Printer, Idea Builder for Hobbyists and Tinkerers - 3D20-01](https://images-na.ssl-images-amazon.com/images/I/61sxgDeAd9L._AC_UL604_SR604,400_.jpg)
 
-In this review we will take a look at the Dremel Digilab 3D20 3D Printer.  This 3D Printer is 
+In this review we will take a look at the [**Dremel Digilab 3D20 3D Printer**](#).  So how does this 3D Printer compare with others on the market?  Does it represent good value for money?  Find the answers to all these questions in our review below.
+
+The [**Dremel Digilab 3D20 3D Printer **](#) 
 
 ## Uses PLA Filament
 
