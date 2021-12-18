@@ -52,6 +52,8 @@ In this review we will
 * Compatible with brand new Dremel Digilab 3D Slicer based on cura, the industry leading open source 3D printing software and gcode files so you can use your favorite slicer
 * Accompanied by unparalleled local Dremel customer service support and industry’s best 1-year warranty. Extruder temperature: Up to 230°C, 397°F
 
+**Includes 1 year Warranty as well as slicing software:** 
+
 * Free cloud-based slicing software
 * 1-year warranty
 * World-class customer support
