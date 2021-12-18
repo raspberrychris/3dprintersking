@@ -34,7 +34,9 @@ appendFilePath = false
 
 In this review we will take a look at the [**Dremel Digilab 3D20 3D Printer**](#).  So how does this 3D Printer compare with others on the market?  Does it represent good value for money?  Find the answers to all these questions in our review below.
 
-The [**Dremel Digilab 3D20 3D Printer **](#) 
+The [**Dremel Digilab 3D20 3D Printer **](#)is a 3D printer that has been designed with beginners in mind.  The small footprint compared to other 3D printers means that it is suitable for smaller living areas.  It comes with excellent online support and is an enclosed 3D Printer.
+
+In this review we will 
 
 ## Uses PLA Filament
 
