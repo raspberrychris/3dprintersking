@@ -39,6 +39,8 @@ The [**Official Creality Ender 3 3D Printer**](https://www.amazon.com/gp/product
 
 Let's dive in to the details and see exactly what it is that makes this one of the most popular 3D printers out there and discover who it is really for.
 
+{{< amazon-ads >}}
+
 In terms of the features of the [**Official Creality Ender 3 3D Printer**](https://www.amazon.com/gp/product/B07D218NX3/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D218NX3&linkId=e109f7dad5b2be13922a920bf49bfbe6), check out the list below to see a quick summary:
 
 ## Features
