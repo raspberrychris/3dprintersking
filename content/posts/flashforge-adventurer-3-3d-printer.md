@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "FlashForge Adventurer 3 3D Printer - The Ultimate beginners’ 3D Printer?"
 [cover]
-alt = ""
+alt = "Flashforge Adventurer 3 3D Printer Review"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-34.png"
 relative = false
 [editPost]
 Text = ""
