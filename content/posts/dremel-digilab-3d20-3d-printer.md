@@ -11,7 +11,6 @@ date = 2021-12-12T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -19,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "Dremel Digilab 3D20 3D Printer"
 [cover]
-alt = ""
+alt = "Dremel Digilab 3D20 3D Printer review"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-35.png"
 relative = false
 [editPost]
 Text = ""
