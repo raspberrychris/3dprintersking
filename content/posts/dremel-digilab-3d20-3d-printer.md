@@ -34,13 +34,17 @@ appendFilePath = false
 
 In this review we will take a look at the [**Dremel Digilab 3D20 3D Printer**](#).  So how does this 3D Printer compare with others on the market?  Does it represent good value for money?  Find the answers to all these questions in our review below.
 
-The [**Dremel Digilab 3D20 3D Printer **](#)is a 3D printer that has been designed with beginners in mind.  The small footprint compared to other 3D printers means that it is suitable for smaller living areas.  It comes with excellent online support and is an enclosed 3D Printer.
+In this review we will consider how the [**Dremel Digilab 3D20 3D Printer **](#)stacks up against the competition and whether or not it represents value for money.
 
-In this review we will 
+## [**Dremel Digilab 3D20 3D Printer**](#) **- Who is it for?**
+
+The [**Dremel Digilab 3D20 3D Printer **](#)is a 3D printer that has been designed with beginners in mind.  The small footprint compared to other 3D printers means that it is suitable for smaller living areas, but that does mean that printing larger creations is limited with this 3D Printer.  The Dremel Digilab 3D20 3D Printer comes with excellent online support and is an enclosed 3D Printer.
 
 ## Uses PLA Filament
 
 ![PLA Filament](https://m.media-amazon.com/images/S/aplus-media/vc/2b0805ad-b8db-44d1-af61-74e0f87a2e7f._SL220__.jpg "PLA Filament")
+
+Yes this 3D printer does use PLA Filmant, which is great for beginners.  However, if you are experience with 3D Printers it may be a drawback that this 3D printer only uses **only** Dremel's PLA filament which may be a drawback for some more experienced hobbyists, who want to experiment a bit more with other brands.
 
 ## **Features of the Dremel Digilab 3D20 3D Printer**
 
