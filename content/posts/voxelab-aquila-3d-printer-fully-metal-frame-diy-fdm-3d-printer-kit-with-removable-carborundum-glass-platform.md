@@ -32,6 +32,8 @@ appendFilePath = false
 +++
 ![Voxelab Aquila 3D Printer,Fully Metal Frame,DIY FDM 3D Printer Kit with Removable Carborundum Glass Platform,Fully Open Sourc](https://images-na.ssl-images-amazon.com/images/I/51wBPkGcqPS._AC_UL604_SR604,400_.jpg)
 
+This is a review of the Voxelab Aquila 3D Printer.
+
 ## Features Of The Voxelab Aquila 3D Printer
 
 **Integrated Structure Design**
