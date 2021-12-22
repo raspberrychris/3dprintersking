@@ -31,3 +31,25 @@ appendFilePath = false
 
 +++
 ![Voxelab Aquila 3D Printer,Fully Metal Frame,DIY FDM 3D Printer Kit with Removable Carborundum Glass Platform,Fully Open Sourc](https://images-na.ssl-images-amazon.com/images/I/51wBPkGcqPS._AC_UL604_SR604,400_.jpg)
+
+## Features Of The Voxelab Aquila 3D Printer
+
+**Integrated Structure Design**
+
+Easy to assemble and maintain with integrated structure and modular design. All lines are concealed in the machine. It’s more convenient and safer for you to operate.
+
+**Resume Printing Function**
+
+The machine can automatically resume printing when power comes on. It won’t print from scratch once meeting filament breakage, saving time and avoiding waste.
+
+**Semi-Assembled Kit**
+
+This easy-to-setup kit comes partially assembled, enabling you to learn about the basic construction of 3D printers as you finish putting it together.
+
+**Removable Build Surface Plate**
+
+Aquila uses carborundum glass platform, enables the building platform heat up in 5 minutes and prints adhere better without the warping. Ultra smoothness even on the first layer.
+
+**Warranty and Service**
+
+All Voxelab 3d printers are provided lifetime technical assistance and a one-year warranty. If you have any questions regarding product operation or software please feel free to contact us.
