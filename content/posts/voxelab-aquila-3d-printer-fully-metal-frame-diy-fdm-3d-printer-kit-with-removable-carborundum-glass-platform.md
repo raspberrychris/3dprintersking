@@ -42,6 +42,8 @@ Easy to assemble and maintain with integrated structure and modular design. All 
 
 **Resume Printing Function**
 
+![Resume printing while power off](/uploads/4ec58ba7-fa31-44b2-a59d-cfefc36cc9b3.jpeg "Resume printing while power off")
+
 The machine can automatically resume printing when power comes on. It won’t print from scratch once meeting filament breakage, saving time and avoiding waste.
 
 **Semi-Assembled Kit**
@@ -55,3 +57,5 @@ Aquila uses carborundum glass platform, enables the building platform heat up in
 **Warranty and Service**
 
 All Voxelab 3d printers are provided lifetime technical assistance and a one-year warranty. If you have any questions regarding product operation or software please feel free to contact us.
+
+## Voxelab Aquila 3D Printer - Who is it for?
