@@ -62,4 +62,4 @@ Aquila uses carborundum glass platform, enables the building platform heat up in
 
 All Voxelab 3d printers are provided lifetime technical assistance and a one-year warranty. If you have any questions regarding product operation or software please feel free to contact us.
 
-## Voxelab Aquila 3D Printer - Who is it for?
+## Our Verdict
