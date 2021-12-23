@@ -51,7 +51,7 @@ In terms of customer opinion around this product it has less reviews than some o
 
 ## Design of FlashForge Adventurer 3
 
-The design on the [**Flashforge Adventurer 3 **](https://www.amazon.com/gp/product/B07ZR467YR/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZR467YR&linkId=190486acb5945ac0cd47fdbcf9f2e537)is minimalist and the printer is fully enclosed.  You also get transparent windows on three sides of the printer meaning that viewing your creation is still possible.  This design means  that you get a quieter 3D printer than some of the others on the market, but without sacrificing the ability to see what you making while it is being made.
+The design on the [**Flashforge Adventurer 3**](https://www.amazon.com/gp/product/B07ZR467YR/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZR467YR&linkId=190486acb5945ac0cd47fdbcf9f2e537)   s minimalist and the printer is fully enclosed.  You also get transparent windows on three sides of the printer meaning that viewing your creation is still possible.  This design means  that you get a quieter 3D printer than some of the others on the market, but without sacrificing the ability to see what you making while it is being made.
 
 ## FlashForge Adventurer 3 3D Printer Video Review
 
