@@ -32,7 +32,11 @@ appendFilePath = false
 +++
 ![Voxelab Aquila 3D Printer,Fully Metal Frame,DIY FDM 3D Printer Kit with Removable Carborundum Glass Platform,Fully Open Sourc](https://images-na.ssl-images-amazon.com/images/I/51wBPkGcqPS._AC_UL604_SR604,400_.jpg)
 
-This is a review of the Voxelab Aquila 3D Printer.
+This is a review of the Voxelab Aquila 3D Printer. 
+
+## Voxelab Aquila 3D Printer - Who is it for?
+
+The Voxelab Aquila 3D Printer is an ideal 3D Printer for beginners and customers have commented that it is easy to set up taking only around 20 minutes in total.  It is also quiet and in comparison to other more expensive 3D Printers on the market it is extremely competitive in terms of the print quality.
 
 ## Features Of The Voxelab Aquila 3D Printer
 
