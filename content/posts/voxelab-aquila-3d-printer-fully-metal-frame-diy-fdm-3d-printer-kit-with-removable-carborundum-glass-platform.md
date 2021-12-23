@@ -72,6 +72,8 @@ All [**Voxelab 3D printers**](#) are provided lifetime technical assistance and 
 
 ## Our Verdict
 
-The [**Voxelab Aquila 3D Printer**](#) makes a great 3D Printer
+**4/5**
+
+The [**Voxelab Aquila 3D Printer**](#) makes a great beginners 3D printer, but how does it compare with other 3D printers at this price point?  We think the Voxelab Aquila 3D Printer is a great 3D Printer for those who have experience 
 
 [**Click here to check out the Voxelab Aquila 3D Printer on Amazon.com…**](#)
