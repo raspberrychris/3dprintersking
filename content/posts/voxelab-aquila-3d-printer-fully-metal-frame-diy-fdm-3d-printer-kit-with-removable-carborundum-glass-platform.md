@@ -40,6 +40,8 @@ In this review we will take a look at the [**Voxelab Aquila 3D Printer**](#).  T
 
 In our opinion the [**Voxelab Aquila 3D Printer**](#) is an ideal 3D Printer for beginners to 3D Printing and customers who have bought this 3D Printer have commented that it is easy to set up, taking only around 20 minutes to just under an hour, which is a definite bonus for new 3D Printing enthusiasts.  It is also relatively quiet and in comparison to other more expensive 3D Printers on the market, it is also extremely competitive in terms of the print quality.  We think that at this more affordable price point the [**Voxelab Aquila 3D Printer**](#) does a really good job of competing with 3D Printers that are much more higher priced.
 
+![](/uploads/e0f0a9da-501d-424b-805c-f97c90e15f98.png)
+
 ## Voxelab Aquila 3D Printer - What’s in the box?
 
 [**Click here to check out the Voxelab Aquila 3D Printer on Amazon.com…**](#)
