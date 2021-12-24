@@ -34,7 +34,9 @@ appendFilePath = false
 
 ## Overview of the Voxelab Aquila 3D Printer with Fully Metal Frame
 
-In this review we will take a look at the [**Voxelab Aquila 3D Printer**](#).  This is an FDM (Fused Deposition Modelling) 3D Printer that is fully open source which means it will enable you to share your changes to the source code with the community.  The maximum bed temperature for this 3D Printer is 110°C (212°F) and the print speed is ≤180mm/s.  It is compatible with the majority of operating systems: MAC OS/WindowsXP/7/8/10.  In terms of the slicer software it uses: Simplify/Cura/Voxelmaker Support.
+In this review we will take a look at the [**Voxelab Aquila 3D Printer**](#).  This is an FDM (Fused Deposition Modelling) 3D Printer that is fully open source which means it will enable you to share your changes to the source code with the community.  The maximum bed temperature for this 3D Printer is 110°C (212°F) and the print speed is ≤180mm/s.  
+
+The Voxelab Aquila 3D Printer with fully Metal frame is compatible with the majority of operating systems: MAC OS/WindowsXP/7/8/10.  In terms of the slicer software it uses: Simplify/Cura/Voxelmaker Support.
 
 ### How big is the Voxelab Aquila 3D Printer with Fully Metal Frame?
 
