@@ -36,13 +36,13 @@ appendFilePath = false
 
 In this review we will take a look at the [**Voxelab Aquila 3D Printer**](#).  This is an FDM (Fused Deposition Modelling) 3D Printer that is fully open source which means it will enable you to share your changes to the source code with the community.  The maximum bed temperature for this 3D Printer is 110°C (212°F) and the print speed is ≤180mm/s.  
 
-The Voxelab Aquila 3D Printer with fully Metal frame is compatible with the majority of operating systems: MAC OS/WindowsXP/7/8/10.  In terms of the slicer software it uses: Simplify/Cura/Voxelmaker Support.
+The [**Voxelab Aquila 3D Printer**](#) with fully Metal frame is compatible with the majority of operating systems: MAC OS/WindowsXP/7/8/10.  In terms of the slicer software it uses: Simplify/Cura/Voxelmaker Support.
 
 ### How big is the Voxelab Aquila 3D Printer with Fully Metal Frame?
 
 **Dimensions**: 475*480*473mm
 
-In this review we will look at the features of this 3D Printer and give a final score for this printer based on our opinion of how it performs against its competitors, so you will know whether it will suit you or not.  This is a popular option from Voxelab.  Voxelab if you haven’t heard of them before is a subbrand of Flashforge, Voxelab claim that the Voxelab Aquila 3D Printer is suitable for both beginners and more advanced users.  The Voxelab brand is perhaps not as popular as some of the [**Creality 3D Printers**](#) that we have reviewed, but [**Voxelab**](#) do seem to be popular with newcomers to 3D printing.  Of customers who have bought this printer on Amazon.com 70% of them gave it 5/5 stars, meaning it is considered to be a high quality printer.  Customers say that this 3D Printer has good adhesion, fantastic print quality and also it suitable for beginners.  This 3D printer has been recommended a lot from more experienced users and has gained a following from word of mouth.  Lets dive into the features of this 3D Printer and see exactly who it is for.  If you can’t wait and want to jump to the product listing straight away, click the link below.
+In this review we will look at the features of this 3D Printer and give a final score for this printer based on our opinion of how it performs against its competitors, so you will know whether it will suit you or not.  This is a popular option from Voxelab.  Voxelab if you haven’t heard of them before is a subbrand of Flashforge, Voxelab claim that the [**Voxelab Aquila 3D Printer**](#) is suitable for both beginners and more advanced users.  The [**Voxelab**](#) brand is perhaps not as popular as some of the [**Creality 3D Printers**](#) that we have reviewed, but [**Voxelab**](#) do seem to be popular with newcomers to 3D printing.  Of customers who have bought this printer on Amazon.com 70% of them gave it 5/5 stars, meaning it is considered to be a high quality printer.  Customers say that this 3D Printer has good adhesion, fantastic print quality and also it suitable for beginners.  This 3D printer has been recommended a lot from more experienced users and has gained a following from word of mouth.  Lets dive into the features of this 3D Printer and see exactly who it is for.  If you can’t wait and want to jump to the product listing straight away, click the link below.
 
 [**Click here to check out the Voxelab Aquila 3D Printer on Amazon.com…**](#)
 
@@ -55,6 +55,14 @@ In our opinion the [**Voxelab Aquila 3D Printer**](#) is an ideal 3D Printer for
 ## Voxelab Aquila 3D Printer - What’s in the box?
 
 [**Click here to check out the Voxelab Aquila 3D Printer on Amazon.com…**](#)
+
+[Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)  
+![Customer image](https://images-na.ssl-images-amazon.com/images/I/81sRzWLHy5L._SL1600_.jpg)
+
+[Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)
+
+  
+![Customer image in the box](https://images-na.ssl-images-amazon.com/images/I/81nW424KWBL._SL1600_.jpg)
 
 ## Features Of The Voxelab Aquila 3D Printer
 
