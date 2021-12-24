@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "Voxelab Aquila 3D Printer with full metal frame"
 [cover]
-alt = ""
+alt = "Voxelab Aquila 3D Printer with full metal frame"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-36.png"
 relative = false
 [editPost]
 Text = ""
