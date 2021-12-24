@@ -54,14 +54,18 @@ In our opinion the [**Voxelab Aquila 3D Printer**](#) is an ideal 3D Printer for
 
 ## Voxelab Aquila 3D Printer - What’s in the box?
 
+Below we have compiled some images of what you get with this 3D Printer.  As you can see the box comes well sealed and has 
+
 [**Click here to check out the Voxelab Aquila 3D Printer on Amazon.com…**](#)
 
-[Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)  
+[Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)
+
+As you can see the Voxelab box is big but also well sealed.  
 ![Customer image](https://images-na.ssl-images-amazon.com/images/I/81sRzWLHy5L._SL1600_.jpg)
 
 [Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)
 
-  
+Here is an example of what you get straight out of the box:  
 ![Customer image in the box](https://images-na.ssl-images-amazon.com/images/I/81nW424KWBL._SL1600_.jpg)
 
 ## Features Of The Voxelab Aquila 3D Printer
