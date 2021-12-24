@@ -54,19 +54,20 @@ In our opinion the [**Voxelab Aquila 3D Printer**](#) is an ideal 3D Printer for
 
 ## Voxelab Aquila 3D Printer - What’s in the box?
 
-Below we have compiled some images of what you get with this 3D Printer.  As you can see the box comes well sealed and has 
+Below we have compiled some images of what you get with this 3D Printer.  As you can see the box comes well sealed and has everything you need to get started.
 
 [**Click here to check out the Voxelab Aquila 3D Printer on Amazon.com…**](#)
 
 [Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)
 
-As you can see the Voxelab box is big but also well sealed.  
+**As you can see the Voxelab box is big but also well sealed.**  
 ![Customer image](https://images-na.ssl-images-amazon.com/images/I/81sRzWLHy5L._SL1600_.jpg)
 
 [Kiyo M’s image of the Voxelab in it’s box](https://www.amazon.com/gp/customer-reviews/RPZMR0ULCMRRD/)
 
-Here is an example of what you get straight out of the box:  
-![Customer image in the box](https://images-na.ssl-images-amazon.com/images/I/81nW424KWBL._SL1600_.jpg)
+**Here are a few photos of what you get straight out of the box as you can see you get everything you need to get started.**  
+![Customer image in the box](https://images-na.ssl-images-amazon.com/images/I/81nW424KWBL._SL1600_.jpg)  
+![Customer image](https://images-na.ssl-images-amazon.com/images/I/818lcRIiMlL._SL1600_.jpg)
 
 ## Features Of The Voxelab Aquila 3D Printer
 
@@ -102,7 +103,7 @@ All [**Voxelab 3D printers**](#) are provided lifetime technical assistance and 
 
 **4/5**
 
-[⭐ Star Emoji — Dictionary of Emoji, Copy & Paste](https://emojis.wiki/star/)
+⭐⭐⭐⭐
 
 The [**Voxelab Aquila 3D Printer**](#) makes a great beginners 3D printer, but how does it compare with other 3D printers at this price point?  We think the Voxelab Aquila 3D Printer is a great 3D Printer for those who have experience
 
