@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "ELEGOO Saturn MSLA 3D Printer"
 [cover]
-alt = ""
+alt = "ELEGOO Saturn MSLA 3D Printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-37.png"
 relative = false
 [editPost]
 Text = ""
