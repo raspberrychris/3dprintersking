@@ -103,6 +103,8 @@ STM32 chip is adapted on the main controlling board, which has powerful computin
 
 **5/5**
 
+⭐⭐⭐⭐⭐ 
+
 If you have bought the [**Mars Pro 3D Printer**](https://www.amazon.com/gp/product/B095K3JWP3/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B095K3JWP3&linkId=208abdf7dc74d77870ff49abeaab1b94) previously you will be keen to know that this is actually a quieter 3D Printer if noise is an issue for you.  In our tests we had no adhesion issues with this printer and it was very straight forward to set up.  From unboxing to printing you can expect to get going in about 10 minutes, which is very fast compared to some of the competitors on the market.  The packaging of the [**ELEGOO Saturn 3D Printer**](https://www.amazon.com/gp/product/B086283SQJ/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B086283SQJ&linkId=c3584767634339cc59df95ca77ba2401) was very thorough and they have been careful to make sure everything arrives safely.  
 
 On the whole this really is an outstanding Resin 3D Printer at this price point and we would recommend it to beginners and more experienced users alike.
