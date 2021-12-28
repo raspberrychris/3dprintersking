@@ -32,7 +32,15 @@ appendFilePath = false
 +++
 ![Luxnwatts Official Creality Ender 3 3D Printer Fully Open Source Printing Size 220x220x250mm](https://images-na.ssl-images-amazon.com/images/I/719-Rrk2IQL._AC_UL604_SR604,400_.jpg)
 
-In this review we will be taking a look at the [**Luxnwatts Official Creality Ender 3 3D Printer**](#) One of the key features of this 3D Printer is the fact that it is Open Source, or as [**Luxnwatts**](/categories/luxnwatts) say "Fully Open Source".
+In this review we will be taking a look at the [**Luxnwatts Official Creality Ender 3 3D Printer**](#) One of the key features of this 3D Printer is the fact that it is Open Source, or as [**Luxnwatts**](/categories/luxnwatts) say "Fully Open Source".  Check out the below to have a look at the key specs of the Luxnwatts Official Creality Ender 3 3D Printer.
+
+**Key Specifications:**
+
+**Dimensions**: 17 x 16 x 18”
+
+**Weight**: 18 pounds
+
+**Build Area:** 8.7 x 8.7 x 9.8"
 
 In terms of features you can resume printing if you lose power.  It also has a patented MK-8 Extruder meaning that this design is supposed to stop clogging of the nozzle as regularly as other 3D printers on the market.  The Luxnwatts Official Creality Ender 3 3D can also reach its required temperature (110 degrees) in 5 minutes or less, meaning it is quick to get up and running with this 3D Printer.
 
@@ -81,3 +89,9 @@ This 3D Printer comes with a Meanwell power supply which protects your printer f
 The interface is very user friendly and has a simple design with one control knob which allows you to print in one button.  The screen has a blue backlit display and allow you to control levelling the bed from this screen.
 
 ## Our Verdict
+
+**4/5**
+
+⭐⭐⭐⭐ 
+
+The [**Luxnwatts Official Creality Ender 3 3D Printer**](#) scores very highly from us as it is easy to use, has fantastic print quality and represents good value for money.  It is definitely suitable for beginners and comes with great tech support which quickly answered any issues we had.  
