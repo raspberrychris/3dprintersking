@@ -56,7 +56,7 @@ If you like the look of this printer you can check it out directly on the produc
 
 ## R Qidi X-Plus Technology 3D Printer - Who is it for?
 
-If you are looking to get into 3D printing or are already experienced in 3D Printing you will be probably wondering whether this 3D Printer will suit you.  We think that this 3D Printer, although pricier than some of the other 3D Printers we have reviewed, would really make an excellent beginners 3D Printer.  The reason for this is the 3D Printer comes with excellent tech support and is really easy to get up and started with, just following the test we were able to get up and printing in an hour.  This 3D Printer also comes with a fast levelling function and is very sturdy in its construction.
+If you are looking to get into 3D printing or are already experienced in 3D Printing you will be probably wondering whether this 3D Printer will suit you.  We think that this 3D Printer, although pricier than some of the other 3D Printers we have reviewed, would really make an excellent beginner’s 3D Printer.  The reason for this is the 3D Printer comes with absolutely excellent ‘infinite’ tech support where they reply within 12 hours and is really easy to get up and started with, just following the test we were able to get up and printing in just under an hour.  This 3D Printer also comes with a fast levelling function and is very sturdy in its construction.
 
 [**Click here to check out the R Qidi X-Plus Technology 3D Printer product listing on Amazon.com…**](#)
 
@@ -86,8 +86,16 @@ R QIDI TECHNOLOGY provide free one-year warranty.
 
 #### 4.3 inch Touchscreen
 
+The 4.3 inch touchscreen makes this a really nice 3D Printer to use.  The touchscreen makes this 3D printer intuitive and easier to use than some of the comparable models at this price point.
+
 #### Removable Plate
 
+The removable plate means on the front side you can print filaments such as PLA, ABS,TPU & PETG.
+
+If you flip over the the curved metal plate on the reverse side you can print more advanced materials such as Nylon, Carbon Fiber & PC.
+
 #### QIDI Print Slicer
+
+QIDI Print Slicer is a free alternative that works with QIDI 3D Printers.  The latest version 5.6.4 has an improved UI and is compatible with all QIDI 3D Printers.
 
 ## Our Verdict
