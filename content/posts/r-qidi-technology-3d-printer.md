@@ -62,23 +62,23 @@ If you are looking to get into 3D printing or are already experienced in 3D Prin
 
 ## R Qidi X-Plus Technology 3D Printer Features
 
-**Two types of Extruder**
+#### **Two types of Extruder**
 
 The X-PLUS 3D Printer Kit comes with two different types of extruder assembly. The extruder A had already been installed on the printer. The max printing temperature is 250C, and it can works well with PLA, ABS, TPU. For extruder B, free to you if you need. The maximum printing temperature is 300C, and can print Nylon, Carbon Fiber, PC. (The latest development, free trial).
 
-**Two different ways for placing filament**
+#### **Two different ways for placing filament**
 
 The X-PLUS with pioneered creation of two different ways for placing the filament. Ventilative printing or enclosed constant temperature printing for you to choose when printing the different types of filament.
 
-**QIDI Software Slicer**
+#### **QIDI Software Slicer**
 
 Latest slicer software version 5.6.4: Redesigned UI interface of QIDI software is smarter and more convenient to operate. It has changed the software's slicing algorithm and improves the print quality by 30 percent and speed by 20 percent. The QIDI software is compatible with all types of QIDI printer, life-time free, an alternative to paid software.(If yours is the old version, please download the latest version on QIDI official website).
 
-**Double Z-Axis Driver for increased stability**
+#### **Double Z-Axis Driver for increased stability**
 
 Double Z-axis driver, ensures more stable and more precise printing quality when you print large model size. Higher configuration 3D printer.
 
-**Warranty for Peace of Mind**
+#### **Warranty for Peace of Mind**
 
 R QIDI TECHNOLOGY provide free one-year warranty.
 
@@ -99,3 +99,9 @@ If you flip over the the curved metal plate on the reverse side you can print mo
 QIDI Print Slicer is a free alternative that works with QIDI 3D Printers.  The latest version 5.6.4 has an improved UI and is compatible with all QIDI 3D Printers.
 
 ## Our Verdict
+
+**5/5**
+
+⭐⭐⭐⭐⭐
+
+So what is our verdict on this 3D Printer?  We think this is an outstanding 3D Printer at this price point.  If you are a beginner to 3D Printing then you won’t go far wrong with the [**R Qidi X-Plus Technology 3D Printer**](#).
