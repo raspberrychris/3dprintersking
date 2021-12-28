@@ -24,6 +24,7 @@
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
+  {{- partial "style.html" . }}
   {{- end }}
 
   {{- if .Content }}
