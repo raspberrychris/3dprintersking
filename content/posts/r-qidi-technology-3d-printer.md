@@ -105,3 +105,5 @@ QIDI Print Slicer is a free alternative that works with QIDI 3D Printers.  The l
 ⭐⭐⭐⭐⭐
 
 So what is our verdict on this 3D Printer?  We think this is an outstanding 3D Printer at this price point.  If you are a beginner to 3D Printing then you won’t go far wrong with the [**R Qidi X-Plus Technology 3D Printer**](#).
+
+The ease of use and reliability of this 3D Printer are the key features that we think that will make it the perfect 3D Printer for beginners.  Also the support that you get with this 3D printer is fantastic.  You do pay a bit more for this 3D Printer so it is not our most affordable 3D Printer that we have reviewed, but it is packed with features.
