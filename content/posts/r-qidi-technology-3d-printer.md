@@ -32,11 +32,31 @@ appendFilePath = false
 +++
 ![R Qidi Technology 3D Printer](/uploads/d165b5b8-7dad-4948-bcf5-d0c55217cd16.jpeg "R Qidi Technology 3D Printer")
 
-In this review we will be taking a look at the [**R Qidi X-Plus Technology 3D Printer**](#).  This 3D Printer has won awards from [**3dsourced.com**](3dsourced.com) and an incredible 86% of customers who bought this 3D Printer on Amazon.com gave it 5/5 stars.  This is definitely one of the higher ratings we have seen from customers.  In particular customers who bought this 3D Printer liked the printer’s ease of use, the touch screen, the tech support and that it is really suitable for beginners.
+In this review we will be taking a look at the [**R Qidi X-Plus Technology 3D Printer**](#).  This 3D Printer weighs 50.7 pounds and is a single extruder 3D Printer.  The core specifications are below that outline the dimensions, build volume and the compatible filament types.
+
+**Dimensions:**
+
+26 x 22.5 x 22 inches
+
+**Build Volume**
+
+10\.6''x7.9''x7.9''(270x200x200mm)
+
+**Compatible Filament Types:**
+
+PLA, ABS, TPU, PETG, Nylon,PC, Carbon fiber
+
+This 3D Printer is popular with beginners and has won awards from [**3dsourced.com**](3dsourced.com) and an incredible 86% of customers who bought this 3D Printer on Amazon.com gave it 5/5 stars.  This is definitely one of the higher ratings we have seen from customers.  In particular customers who bought this 3D Printer liked the printer’s ease of use, the touch screen, the tech support and that it is really suitable for beginners and is reliable.
 
 In this review we will be taking the [**R Qidi X-Plus Technology 3D Printer**](#) through its paces and seeing what makes this printer stand out in terms of its features and how it compares to some of the other 3D printers that we have reviewed at [**3dprintersking.com**](3dprintersking.com).
 
 If you like the look of this printer you can check it out directly on the product listing by clicking the link below.
+
+[**Click here to check out the R Qidi X-Plus Technology 3D Printer product listing on Amazon.com…**](#)
+
+## R Qidi X-Plus Technology 3D Printer - Who is it for?
+
+If you are looking to get into 3D printing or are already experienced in 3D Printing you will be probably wondering whether this 3D Printer will suit you.  We think that this 3D Printer, although pricier than some of the other 3D Printers we have reviewed, would really make an excellent beginners 3D Printer.  The reason for this is the 3D Printer comes with excellent tech support and is really easy to get up and started with, just following the test we were able to get up and printing in an hour.  This 3D Printer also comes with a fast levelling function and is very sturdy in its construction.
 
 [**Click here to check out the R Qidi X-Plus Technology 3D Printer product listing on Amazon.com…**](#)
 
@@ -62,8 +82,12 @@ Double Z-axis driver, ensures more stable and more precise printing quality when
 
 R QIDI TECHNOLOGY provide free one-year warranty.
 
-#### 4.3 inch Touchscreen:
+[**Click here to check out the R Qidi X-Plus Technology 3D Printer product listing on Amazon.com…**](#)
 
-#### Removable Plate:
+#### 4.3 inch Touchscreen
 
-#### QIDI Print Slicer:
+#### Removable Plate
+
+#### QIDI Print Slicer
+
+## Our Verdict
