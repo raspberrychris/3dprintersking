@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "R Qidi Technology 3D Printer - The Best Beginner’s 3D Printer?"
 [cover]
-alt = ""
+alt = "R Qidi Technology 3D Printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-38.png"
 relative = false
 [editPost]
 Text = ""
