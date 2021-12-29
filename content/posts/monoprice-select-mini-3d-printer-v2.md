@@ -98,7 +98,7 @@ With the [**Monoprice Select Mini 3D Printer V2**](#) you get a number of things
 
 ⭐⭐⭐⭐
 
-The [**Monoprice Select Mini 3D Printer V2 **](#)is a great ‘out of the box’ 3D printer at a very competitive price point.  One of the best features for beginners about this 3D Printer is that it comes fully pre-assembled meaning that there is less of a learning curve with this 3D Printer when compared with other similar 3D Printers and you have everything you need to get started straight out of the box.  This makes this 3D Printer fantastic for beginners to 3D Printing.  The price point of the [**Monoprice Select Mini 3D Printer V2**](#) aswell makes it a very affordable 3D Printer.
+The [**Monoprice Select Mini 3D Printer V2**](#) is a great ‘out of the box’ 3D printer at a very competitive price point.  One of the best features for beginners about this 3D Printer is that it comes fully pre-assembled meaning that there is less of a learning curve with this 3D Printer when compared with other similar 3D Printers and you have everything you need to get started straight out of the box.  This makes this 3D Printer fantastic for beginners to 3D Printing.  The price point of the [**Monoprice Select Mini 3D Printer V2**](#) aswell makes it a very affordable 3D Printer.
 
 The only small negative feature that we found about this printer is that it has a smaller build size, but if you are only focused on creating small models then this won’t be an issue for you, or if you have limited space to store the 3D Printer in this may also not be an issue.
 
