@@ -42,6 +42,10 @@ If you are interested in jumping straight to the product listing on Amazon.com t
 
 [**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
 
+## Monoprice Select Mini 3D Printer V2 - Who is it for?
+
+This 3D printer has a smaller print dimensions than some of the other 3D printers that we have looked at meaning that if you are looking to print larger models then you may need to look for a larger 3D Printer.  One of the good things about this 3D printers for beginners is that it comes pre-assembled meaning that you don’t have to assemble it making it ideal for beginners.
+
 ## Monoprice Select Mini 3D Printer V2 Features
 
 Support for All Filament Types: The heated build plate and wide range of extruder temperatures allow this printer to work with any type of filament, from basic filaments, such as ABS and PLA, to more advanced materials, such as conductive PLA, wood and metal composites, or dissolvable PVA.
