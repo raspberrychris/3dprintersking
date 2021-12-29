@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "Monoprice Select Mini 3D Printer v2"
 [cover]
-alt = ""
+alt = "Monoprice Select Mini 3D Printer v2"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-40.png"
 relative = false
 [editPost]
 Text = ""
