@@ -47,6 +47,8 @@ PLA, ABS, TPU, PETG, Nylon,PC, Carbon fiber
 
 This 3D Printer is popular with beginners and has won awards from [**3dsourced.com**](3dsourced.com) and an incredible 86% of customers who bought this 3D Printer on Amazon.com gave it 5/5 stars.  This is definitely one of the higher ratings we have seen from customers.  In particular customers who bought this 3D Printer liked the printer’s ease of use, the touch screen, the tech support and that it is really suitable for beginners and is reliable.
 
+{{< amazon-ads >}}
+
 In this review we will be taking the [**R Qidi X-Plus Technology 3D Printer**](https://www.amazon.com/gp/product/B07JCKNQSZ/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07JCKNQSZ&linkId=c447344d72c2ade72512c5851a9bc97e) through its paces and seeing what makes this printer stand out in terms of its features and how it compares to some of the other 3D printers that we have reviewed at [**3dprintersking.com**](3dprintersking.com).
 
 If you like the look of this printer you can check it out directly on the product listing by clicking the link below.
