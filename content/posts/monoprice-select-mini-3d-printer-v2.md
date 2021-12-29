@@ -48,13 +48,21 @@ This 3D printer has a smaller print dimensions than some of the other 3D printer
 
 ## Monoprice Select Mini 3D Printer V2 Features
 
-Support for All Filament Types: The heated build plate and wide range of extruder temperatures allow this printer to work with any type of filament, from basic filaments, such as ABS and PLA, to more advanced materials, such as conductive PLA, wood and metal composites, or dissolvable PVA.
+**Support for All Filament Types**
 
-Compact Desktop Design: Featuring a small footprint and basic, open frame design, this 3D printer is compact enough for any desk.
+The heated build plate and wide range of extruder temperatures allow this printer to work with any type of filament, from basic filaments, such as ABS and PLA, to more advanced materials, such as conductive PLA, wood and metal composites, or dissolvable PVA.
 
-Ready to Print: Unlike most other low-cost 3D printers, this printer ships fully assembled and has already been calibrated at the factory. We even include sample PLA filament and a MicroSD card with preinstalled models, so you can start printing right out of the box!
+**Compact Desktop Design**
 
-Sample Filament diameter- 1.75mm, Filament size spool/sample- about 10ft. One sample print, Filament Color- natural/clear
+Featuring a small footprint and basic, open frame design, this 3D printer is compact enough for any desk.
+
+**Ready to Print**
+
+ Unlike most other low-cost 3D printers, this printer ships fully assembled and has already been calibrated at the factory. We even include sample PLA filament and a MicroSD card with preinstalled models, so you can start printing right out of the box!
+
+**Sample Filament diameter**
+
+1\.75mm, Filament size spool/sample- about 10ft. One sample print, Filament Color- natural/clear
 
 Heated aluminum build plate nozzle cooling fan for printing all filament types. Complete kit with sample PLA filament, bed scraper, and MicroSD card with preloaded model files. Micro USB and MicroSD card connectivity. PC and Mac compatible. Compatible with Cura, Repetier, and other software
 
@@ -86,8 +94,8 @@ With the [**Monoprice Select Mini 3D Printer V2**](#) you get a number of things
 
 ⭐⭐⭐⭐
 
-The [**Monoprice Select Mini 3D Printer V2 **](#)is a great ‘out of the box’ 3D printer at a very competitive price point.  One of the best features for beginners about this 3D Printer is that it comes pre assembled meaning that there is less of a learning curve with this 3D Printer when compared with other similar 3D Printers.
+The [**Monoprice Select Mini 3D Printer V2 **](#)is a great ‘out of the box’ 3D printer at a very competitive price point.  One of the best features for beginners about this 3D Printer is that it comes fully pre-assembled meaning that there is less of a learning curve with this 3D Printer when compared with other similar 3D Printers and you have everything you need to get started straight out of the box.
 
-The only slightly negative feature that we found about this printer is that it has a small build size, but if you are only focused on creating small models then this won’t be an issue for you.
+The only small negative feature that we found about this printer is that it has a smaller build size, but if you are only focused on creating small models then this won’t be an issue for you, or if you have limited space to store the 3D Printer in this may also not be an issue.
 
 [**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
