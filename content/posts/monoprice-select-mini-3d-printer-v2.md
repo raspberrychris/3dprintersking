@@ -30,4 +30,8 @@ URL = ""
 appendFilePath = false
 
 +++
-![Monoprice Select Mini 3D Printer v2 - White With Heated (120 x 120 x 120 mm) Build Plate, Fully Assembled + Free Sample PLA F](https://images-na.ssl-images-amazon.com/images/I/61EXoHyYLoL._AC_UL604_SR604,400_.jpg)
+![Monoprice Select Mini 3D Printer v2](https://images-na.ssl-images-amazon.com/images/I/61EXoHyYLoL._AC_UL604_SR604,400_.jpg "Monoprice Select Mini 3D Printer v2")
+
+In this review we will be taking a look at the [**Monoprice Select Mini 3D Printer v2**](#)**.**  
+
+The 
