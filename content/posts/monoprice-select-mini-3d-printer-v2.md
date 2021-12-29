@@ -46,6 +46,8 @@ If you are interested in jumping straight to the product listing on Amazon.com t
 
 This 3D printer has a smaller print dimensions than some of the other 3D printers that we have looked at meaning that if you are looking to print larger models then you may need to look for a larger 3D Printer.  One of the good things about this 3D printers for beginners is that it comes pre-assembled meaning that you don’t have to assemble it making it ideal for beginners.
 
+![Monoprice Select Mini 3D Printer V2](/uploads/4089fcba-3ce7-4a38-a405-4742225e1797.jpeg "Monoprice Select Mini 3D Printer V2")
+
 ## Monoprice Select Mini 3D Printer V2 Features
 
 **Support for All Filament Types**
@@ -58,7 +60,7 @@ Featuring a small footprint and basic, open frame design, this 3D printer is com
 
 **Ready to Print**
 
- Unlike most other low-cost 3D printers, this printer ships fully assembled and has already been calibrated at the factory. We even include sample PLA filament and a MicroSD card with preinstalled models, so you can start printing right out of the box!
+Unlike most other low-cost 3D printers, this printer ships fully assembled and has already been calibrated at the factory. We even include sample PLA filament and a MicroSD card with preinstalled models, so you can start printing right out of the box!
 
 **Sample Filament diameter**
 
@@ -73,6 +75,8 @@ Supported Filament Types - ABS, PLA, Wood, Copper Fill, Steel Fill, Bronze Fill 
 [**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
 
 ## What is included in the box?
+
+![Monoprice Select Mini 3D Printer V2](/uploads/eeb81771-5df1-497f-a2e5-c711f45b3936.jpeg "Monoprice Select Mini 3D Printer V2")
 
 With the [**Monoprice Select Mini 3D Printer V2**](#) you get a number of things included straight out of the box.
 
