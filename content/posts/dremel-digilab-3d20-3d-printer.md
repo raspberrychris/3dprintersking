@@ -41,6 +41,8 @@ In this review we will consider how the [**Dremel Digilab 3D20 3D Printer **](#)
 
 The [**Dremel Digilab 3D20 3D Printer **](#)is a 3D printer that has been designed with beginners in mind.  The small footprint compared to other 3D printers means that it is suitable for smaller living areas, but that does mean that printing larger creations is limited with this 3D Printer.  The Dremel Digilab 3D20 3D Printer comes with excellent online support and is an enclosed 3D Printer.
 
+{{< amazon-ads >}}
+
 ## How does this printer compare to others on the market?
 
 In terms of popularity, this printer is not as popular as some of the other options that we have reviewed on the market such as the [**Official Creality Ender 3 3D Printer **](/posts/official-creality-ender-3-3d-printer/)or the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](posts/anycubic-mega-s-upgrade-fdm-3d-printer/).  It is a 3D printer that is extremely targeted at a certain market and therefore it's appeal may be restricted for some more advanced users of 3D Printers.
