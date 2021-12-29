@@ -11,7 +11,6 @@ date = 2021-12-12T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -32,7 +31,7 @@ appendFilePath = false
 +++
 ![Monoprice Select Mini 3D Printer v2](https://images-na.ssl-images-amazon.com/images/I/61EXoHyYLoL._AC_UL604_SR604,400_.jpg "Monoprice Select Mini 3D Printer v2")
 
-In this review we will be taking a look at the [**Monoprice Select Mini 3D Printer V2**](#)**.**  This 3D Printer weighs 9.9 pounds and comes fully assembled straight out of the box which makes it great for beginners who are new to 3D printing.  In terms of what customers who bought this printer think about it, just over half of customers gave this 5/5 stars on Amazon.com.  This isn’t one of our highest ratings that we have seen, but it is competitive.
+In this review we will be taking a look at the [**Monoprice Select Mini 3D Printer V2**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a)**.**  This 3D Printer weighs 9.9 pounds and comes fully assembled straight out of the box which makes it great for beginners who are new to 3D printing.  In terms of what customers who bought this printer think about it, just over half of customers gave this 5/5 stars on Amazon.com.  This isn’t one of our highest ratings that we have seen, but it is competitive.
 
 **3D Printer Dimensions:** 11.3 x 7.5 x 13.5 inches
 
@@ -40,7 +39,7 @@ In this review we will be taking a look at the [**Monoprice Select Mini 3D Print
 
 If you are interested in jumping straight to the product listing on Amazon.com then you can click the link below.
 
-[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
+[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a)
 
 ## Monoprice Select Mini 3D Printer V2 - Who is it for?
 
@@ -72,13 +71,13 @@ Heated aluminum build plate nozzle cooling fan for printing all filament types. 
 
 Supported Filament Types - ABS, PLA, Wood, Copper Fill, Steel Fill, Bronze Fill KINDLY REFER USER MANUAL BEFORE USE; Max Extruder Temperature: 482°F (250°C)
 
-[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
+[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a)
 
 ## What is included in the box?
 
 ![Monoprice Select Mini 3D Printer V2](/uploads/eeb81771-5df1-497f-a2e5-c711f45b3936.jpeg "Monoprice Select Mini 3D Printer V2")
 
-With the [**Monoprice Select Mini 3D Printer V2**](#) you get a number of things included straight out of the box.
+With the [**Monoprice Select Mini 3D Printer V2**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a) you get a number of things included straight out of the box.
 
 * MP Select Mini 3D printer
 * Filament holder
@@ -90,7 +89,7 @@ With the [**Monoprice Select Mini 3D Printer V2**](#) you get a number of things
 * Bed leveling hex wrench
 * Sample PLA filament
 
-[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
+[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a)
 
 ## Our Verdict
 
@@ -98,8 +97,8 @@ With the [**Monoprice Select Mini 3D Printer V2**](#) you get a number of things
 
 ⭐⭐⭐⭐
 
-The [**Monoprice Select Mini 3D Printer V2**](#) is a great ‘out of the box’ 3D printer at a very competitive price point.  One of the best features for beginners about this 3D Printer is that it comes fully pre-assembled meaning that there is less of a learning curve with this 3D Printer when compared with other similar 3D Printers and you have everything you need to get started straight out of the box.  This makes this 3D Printer fantastic for beginners to 3D Printing.  The price point of the [**Monoprice Select Mini 3D Printer V2**](#) aswell makes it a very affordable 3D Printer.
+The [**Monoprice Select Mini 3D Printer V2**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a) is a great ‘out of the box’ 3D printer at a very competitive price point.  One of the best features for beginners about this 3D Printer is that it comes fully pre-assembled meaning that there is less of a learning curve with this 3D Printer when compared with other similar 3D Printers and you have everything you need to get started straight out of the box.  This makes this 3D Printer fantastic for beginners to 3D Printing.  The price point of the [**Monoprice Select Mini 3D Printer V2**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a) aswell makes it a very affordable 3D Printer.
 
 The only small negative feature that we found about this printer is that it has a smaller build size, but if you are only focused on creating small models then this won’t be an issue for you, or if you have limited space to store the 3D Printer in this may also not be an issue.
 
-[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](#)
+[**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a)
