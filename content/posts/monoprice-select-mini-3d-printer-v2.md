@@ -39,6 +39,8 @@ In this review we will be taking a look at the [**Monoprice Select Mini 3D Print
 
 If you are interested in jumping straight to the product listing on Amazon.com then you can click the link below.
 
+{{< amazon-ads >}}
+
 [**Click here to view the Monoprice Select Mini 3D Printer V2 product listing on Amazon.com…**](https://www.amazon.com/gp/product/B01FL49VZE/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FL49VZE&linkId=00a385bcfc73e3776cf3f26e5ad9104a)
 
 ## Monoprice Select Mini 3D Printer V2 - Who is it for?
