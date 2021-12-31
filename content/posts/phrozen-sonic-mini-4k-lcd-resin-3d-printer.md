@@ -68,4 +68,12 @@ Phrozen provides a one-year warranty on all 3D printers (excluding consumable pa
 
 ## Our Verdict
 
+**5/5**
+
+⭐⭐⭐⭐⭐
+
+The [**Phrozen Sonic Mini 4K LCD Resin 3D Printer **](#)is a mid range price 3D printer that is more affordable than some of the other 3D Printers that we have reviewed.  At this price point it is one of the fastest and most detailed 3D printers you can buy at the time of writing.  In our opinion what this 3D Printer excels at is its detail that you can get when creating models.  For example if you are interested in Dungeons and Dragons then this 3D Printer would make a really good choice for you and we have noticed many customers who have bought this around the internet have said that they are using this specific printer for creating D&D models.
+
+Other standout features of the Phrozen Sonic Mini 4K LCD Resin 3D Printer are the fantastic tech support and the ease of use and setting up.  Overall this is a fantastic package and we think represents real value for money.
+
 [**Click here to check out the Phrozen Sonic Mini 4K LCD Resin 3D Printer on Amazon.com…**](#)
