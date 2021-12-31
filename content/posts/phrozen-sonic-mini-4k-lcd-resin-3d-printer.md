@@ -34,6 +34,10 @@ appendFilePath = false
 
 In this review we will be taking a look at the [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](#).  In this review we will take this 3D printer through its paces to find out how it compares to the competition.  Straight off the bat we can see that this printer has already got some stunning reviews around the internet. 76% of people who bought this printer on Amazon.com gave it 5/5 stars which really is a high score when compared to some of the other 3D Printers we have already reviewed.
 
+**What are the dimensions of the Phrozen Sonic Mini 4K LCD Resin 3D Printer?**
+
+![Dimensions of phrozen sonic mini 4k 3d printer](/uploads/2e0d31e0-e46a-414f-9625-2a51af2f8bee.jpeg "Dimensions of phrozen sonic mini 4k 3d printer")
+
 ## [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](#) **- Who is it for?**
 
 If you are looking for a 3D printer you will want to know who this is targeted at we would say straight off the bat that this 3D Printer is relatively easy to use.  Customers who have bought this 3D Printer rank ease of use as its top feature on Amazon.com.  The other thing that this 3D Printer excels at is the overall print quality - we found that the models that we created with this 3D Printer were extremely detailed, so it will appeal to many people who are looking for a precise 3D Printer.   Another great thing about the Phrozen Sonic Mini 4K LCD Resin 3D Printer is that it comes with fantastic tech support.  Although we have seen other 3D Printers with fantastic tech support it is rare for this to be in the top features of the product. 
