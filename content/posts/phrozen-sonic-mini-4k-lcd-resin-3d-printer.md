@@ -11,7 +11,6 @@ date = 2021-12-31T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -32,15 +31,15 @@ appendFilePath = false
 +++
 ![Phrozen Sonic Mini 4K LCD Resin 3D Printer](/uploads/5054c8a1-c810-4144-b111-739b238b9964.jpeg "Phrozen Sonic Mini 4K LCD Resin 3D Printer")
 
-In this review we will be taking a look at the [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](#).  In this review we will take this 3D printer through its paces to find out how it compares to the competition.  Straight off the bat we can see that this printer has already got some stunning reviews around the internet. 76% of people who bought this printer on Amazon.com gave it 5/5 stars which really is a high score when compared to some of the other 3D Printers we have already reviewed.
+In this review we will be taking a look at the [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](https://www.amazon.com/gp/product/B08D7HK8Q1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08D7HK8Q1&linkId=9512cdef5b7c5880891ba82e775444a4).  In this review we will take this 3D printer through its paces to find out how it compares to the competition.  Straight off the bat we can see that this printer has already got some stunning reviews around the internet. 76% of people who bought this printer on Amazon.com gave it 5/5 stars which really is a high score when compared to some of the other 3D Printers we have already reviewed.
 
 ### **What are the dimensions of the Phrozen Sonic Mini 4K LCD Resin 3D Printer?**
 
 ![Dimensions of phrozen sonic mini 4k 3d printer](/uploads/2e0d31e0-e46a-414f-9625-2a51af2f8bee.jpeg "Dimensions of phrozen sonic mini 4k 3d printer")
 
-## [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](#) **- Who is it for?**
+## [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](https://www.amazon.com/gp/product/B08D7HK8Q1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08D7HK8Q1&linkId=9512cdef5b7c5880891ba82e775444a4) **- Who is it for?**
 
-If you are looking for a 3D printer you will want to know who this is targeted at we would say straight off the bat that this 3D Printer is relatively easy to use.  Customers who have bought this 3D Printer rank ease of use as its top feature on Amazon.com.  The other thing that this 3D Printer excels at is the overall print quality - we found that the models that we created with this 3D Printer were extremely detailed, so it will appeal to many people who are looking for a precise 3D Printer.   Another great thing about the Phrozen Sonic Mini 4K LCD Resin 3D Printer is that it comes with fantastic tech support.  Although we have seen other 3D Printers with fantastic tech support it is rare for this to be in the top features of the product. 
+If you are looking for a 3D printer you will want to know who this is targeted at we would say straight off the bat that this 3D Printer is relatively easy to use.  Customers who have bought this 3D Printer rank ease of use as its top feature on Amazon.com.  The other thing that this 3D Printer excels at is the overall print quality - we found that the models that we created with this 3D Printer were extremely detailed, so it will appeal to many people who are looking for a precise 3D Printer.   Another great thing about the [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](https://www.amazon.com/gp/product/B08D7HK8Q1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08D7HK8Q1&linkId=9512cdef5b7c5880891ba82e775444a4) is that it comes with fantastic tech support.  Although we have seen other 3D Printers with fantastic tech support it is rare for this to be in the top features of the product. 
 
 A lot of customers who have bought this product on Amazon.com have commented that they bought this printer specifically for D&D model creation, so it will likely appeal to anyone who is into Dungeons and Dragons.  If this is you then you need look no further!
 
@@ -68,7 +67,7 @@ Sonic Mini 4K is compatible with the majority of 3D printing resin on the market
 
 Phrozen provides a one-year warranty on all 3D printers (excluding consumable parts such as LCD screen & FEP film) as well as lifetime technical support. Replacements like FEP films or other parts & accessories can readily be found on Phrozen’s Amazon store at cheap prices. FAQs & printing tips are also easily accessible on our Facebook groups and official website. 
 
-[**Click here to check out the Phrozen Sonic Mini 4K LCD Resin 3D Printer on Amazon.com…**](#)
+[**Click here to check out the Phrozen Sonic Mini 4K LCD Resin 3D Printer on Amazon.com…**](https://www.amazon.com/gp/product/B08D7HK8Q1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08D7HK8Q1&linkId=9512cdef5b7c5880891ba82e775444a4)
 
 ## What’s included in the box?
 
@@ -82,8 +81,8 @@ The below image shows all the things that you will get inside and included with 
 
 ⭐⭐⭐⭐⭐
 
-The [**Phrozen Sonic Mini 4K LCD Resin 3D Printer **](#)is a mid range price 3D printer that is more affordable than some of the other 3D Printers that we have reviewed.  At this price point it is one of the fastest and most detailed 3D printers you can buy at the time of writing.  In our opinion what this 3D Printer excels at is its detail that you can get when creating models.  For example if you are interested in Dungeons and Dragons then this 3D Printer would make a really good choice for you and we have noticed many customers who have bought this around the internet have said that they are using this specific printer for creating D&D models.
+The [**Phrozen Sonic Mini 4K LCD Resin 3D Printer **](https://www.amazon.com/gp/product/B08D7HK8Q1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08D7HK8Q1&linkId=9512cdef5b7c5880891ba82e775444a4)is a mid range price 3D printer that is more affordable than some of the other 3D Printers that we have reviewed.  At this price point it is one of the fastest and most detailed 3D printers you can buy at the time of writing.  In our opinion what this 3D Printer excels at is its detail that you can get when creating models.  For example if you are interested in Dungeons and Dragons then this 3D Printer would make a really good choice for you and we have noticed many customers who have bought this around the internet have said that they are using this specific printer for creating D&D models.
 
 Other standout features of the Phrozen Sonic Mini 4K LCD Resin 3D Printer are the fantastic tech support and the ease of use and setting up.  Overall this is a fantastic package and we think represents real value for money.
 
-[**Click here to check out the Phrozen Sonic Mini 4K LCD Resin 3D Printer on Amazon.com…**](#)
+[**Click here to check out the Phrozen Sonic Mini 4K LCD Resin 3D Printer on Amazon.com…**](https://www.amazon.com/gp/product/B08D7HK8Q1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08D7HK8Q1&linkId=9512cdef5b7c5880891ba82e775444a4)
