@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "Phrozen Sonic Mini 4K LCD Resin 3D Printer"
 [cover]
-alt = ""
+alt = "Phrozen Sonic Mini 4K LCD Resin 3D Printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-41.png"
 relative = false
 [editPost]
 Text = ""
