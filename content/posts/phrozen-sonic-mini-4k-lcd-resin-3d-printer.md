@@ -34,7 +34,7 @@ appendFilePath = false
 
 In this review we will be taking a look at the [**Phrozen Sonic Mini 4K LCD Resin 3D Printer**](#).  In this review we will take this 3D printer through its paces to find out how it compares to the competition.  Straight off the bat we can see that this printer has already got some stunning reviews around the internet. 76% of people who bought this printer on Amazon.com gave it 5/5 stars which really is a high score when compared to some of the other 3D Printers we have already reviewed.
 
-**What are the dimensions of the Phrozen Sonic Mini 4K LCD Resin 3D Printer?**
+### **What are the dimensions of the Phrozen Sonic Mini 4K LCD Resin 3D Printer?**
 
 ![Dimensions of phrozen sonic mini 4k 3d printer](/uploads/2e0d31e0-e46a-414f-9625-2a51af2f8bee.jpeg "Dimensions of phrozen sonic mini 4k 3d printer")
 
@@ -66,9 +66,15 @@ Sonic Mini 4K is compatible with the majority of 3D printing resin on the market
 
 **User Satisfaction Guaranteed**
 
-Phrozen provides a one-year warranty on all 3D printers (excluding consumable parts such as LCD screen & FEP film) as well as lifetime technical support. Replacements like FEP films or other parts & accessories can readily be found on Phrozen’s Amazon store at cheap prices. FAQs & printing tips are also easily accessible on our Facebook groups and official website. If you encounter any problems, please feel free to contact us.
+Phrozen provides a one-year warranty on all 3D printers (excluding consumable parts such as LCD screen & FEP film) as well as lifetime technical support. Replacements like FEP films or other parts & accessories can readily be found on Phrozen’s Amazon store at cheap prices. FAQs & printing tips are also easily accessible on our Facebook groups and official website. 
 
 [**Click here to check out the Phrozen Sonic Mini 4K LCD Resin 3D Printer on Amazon.com…**](#)
+
+## What’s included in the box?
+
+The below image shows all the things that you will get inside and included with the 3D printer when you purchase it.  As you can see the list of things that Phrozen has provided is comprehensive and saves you from buying more accessories as soon as you have purchased your 3D Printer.
+
+![What is in the box](/uploads/896679e5-6a14-4d3b-89a9-d9c8593e5862.jpeg "What is in the box")
 
 ## Our Verdict
 
