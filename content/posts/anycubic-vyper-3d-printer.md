@@ -109,3 +109,13 @@ fgfgfgf
 Double-gear Extrusion System
 
 fgfgfgf
+
+## Our Verdict
+
+![Anycubic Vyper brand story](https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ed5ecb3-dfd5-4d6c-b851-db3c16cf80ef.__CR0,0,315,315_PT0_SX315_V1___.jpg)
+
+5/5
+
+⭐⭐⭐⭐⭐
+
+This really is a fantastic mid range 3D Printer.  It is not one of the more affordable printers we have reviewed, but it does have a lot of features crammed into one package.  ANYCUBIC's philosophy is a strong one and their ambition to be the best 3D Printer brand is likely to happen if they keep this level of quality with their 3D Printers.
