@@ -74,6 +74,32 @@ The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) I
 * Fast Printing, Vyper printing head adopts a double fan two-way heat dissipation system, helping to cool down models rapidly. Compared with ordinary 3D printers, the printing quality is the same while the printing speed is faster, which can reach 100mm/s. Patented Z-axis Gap Elimination Module can avoid print layer marks and ensure printing precision.
 * More Function, A, Fast Assembly, integrated structure and modular design. B, 4.3 inch large-size touch screen, easy to operate. C, Double-gear extrusion system, is able to reduce the chances of filament tangle and compatible with PLA and flexible filaments. D, Resume print and Material breakage detection. E, Safe power supply.
 
-What are some of the key features?
+## What are some of the key features of this 3D Printer?
 
 ## Auto leveling and fast assembly
+
+fgfgfgf
+
+## High-performance Cortex-M3 Chip
+
+fgfgfgf
+
+##   
+Spring Steel Magnetic Platform
+
+fgfgfgf
+
+##   
+Double Fan Two-way Heat Dissipation
+
+fgfgfgf
+
+##   
+Z-axis Double Photoelectric Limit
+
+fgfgfgf
+
+##   
+Double-gear Extrusion System
+
+fgfgfgf
