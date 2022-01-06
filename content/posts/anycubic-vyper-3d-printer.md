@@ -80,35 +80,49 @@ The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) I
 
 ## What are some of the key features of this 3D Printer?
 
-## Auto leveling and fast assembly
+![key features](https://m.media-amazon.com/images/S/aplus-media-library-service-media/280933c6-97bf-4c7a-9cbb-56e41a1ab142.__CR0,0,970,600_PT0_SX970_V1___.jpg)
+
+## 1. Auto leveling and fast assembly
 
 ![970 x 600-6](https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9e6c625-f6d0-4427-b3d2-0968968dd963.__CR0,0,970,600_PT0_SX970_V1___.jpg)
 
 fgfgfgf
 
-## High-performance Cortex-M3 Chip
+## 2. High-performance Cortex-M3 Chip
 
 fgfgfgf
 
 ##   
-Spring Steel Magnetic Platform
+3\. Spring Steel Magnetic Platform
 
 fgfgfgf
 
 ##   
-Double Fan Two-way Heat Dissipation
+4\. Double Fan Two-way Heat Dissipation
 
 fgfgfgf
 
 ##   
-Z-axis Double Photoelectric Limit
+5\. Z-axis Double Photoelectric Limit
 
 fgfgfgf
 
 ##   
-Double-gear Extrusion System
+6\. Double-gear Extrusion System
 
 fgfgfgf
+
+## How does it compare to other 3D Printers?
+
+![](/uploads/comparison.png)
+
+[**Click here to Check out the Mega S product listing on Amazon.com...**](#)
+
+[**Click here to Check out the Mega Pro product listing on Amazon.com...**](#)
+
+[**Click here to Check out the Vyper product listing on Amazon.com...**](#) 
+
+[**Click here to Check out the Chiron product listing on Amazon.com...**](#)
 
 ## Our Verdict
 
