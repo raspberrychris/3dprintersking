@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
@@ -40,6 +40,8 @@ In this review we will take a close look at this 3D Printer and decide how exact
 
 If you are looking to purchase a 3D printer then you may be looking at the Anycubic brand.  Customers who have bought this product on Amazon.com say the top features of this product are the touch screen, the print quality, the adhesion, the tech support and say that it is also suitable for beginners.  This 3D printer from the outset feels like a good allrounder.  
 
+![300 x 300-4](https://m.media-amazon.com/images/S/aplus-media-library-service-media/66ec8f09-b3f1-4ce8-aa4e-b03beec9eff2.__CR0,0,300,300_PT0_SX300_V1___.jpg)
+
 The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) It supports a number of filaments, from PLA to TPU, ABS, PETG and also wood.  It has a print resolution of ±0.1mm and has a printing speed of ＜180mm/s (recommended 80-100mm/s)
 
 ### **Essential Specs:**
@@ -51,6 +53,8 @@ The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) I
 **Machine Size:** 
 
 508mm × 457mm × 516mm / 20" x 18" x 20"
+
+![300 x 300-3](https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0233a86-f8e0-4ab9-a064-0d0b70f1e508.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
 **Printing Speed:**
 
@@ -77,6 +81,8 @@ The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) I
 ## What are some of the key features of this 3D Printer?
 
 ## Auto leveling and fast assembly
+
+![970 x 600-6](https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9e6c625-f6d0-4427-b3d2-0968968dd963.__CR0,0,970,600_PT0_SX970_V1___.jpg)
 
 fgfgfgf
 
