@@ -95,7 +95,7 @@ The [**ANYCUBIC Vyper 3D Printer**](#) doesn’t require manual leveling, the in
 
 ![Cortex-M3 Chip](https://m.media-amazon.com/images/S/aplus-media-library-service-media/c2904732-34c9-4458-80d1-30bbaeee82be.__CR0,0,300,300_PT0_SX300_V1___.jpg "Cortex-M3 Chip")
 
-The motherboard of the ANYCUBIC Vyper 3D Printer comes with a hugely powerful Cortex-M3 Chip, this means that your 3D printer will have a fast computing speed and will run smoothly.  The motherboard is also silent thanks to the integrated TMCC209 silent driver.  Leading to reduced noise 3D Printing.
+The motherboard of the [**ANYCUBIC Vyper 3D Printe**](#)r comes with a hugely powerful Cortex-M3 Chip, this means that your 3D printer will have a fast computing speed and will run smoothly.  The motherboard is also silent thanks to the integrated TMCC209 silent driver.  Leading to reduced noise 3D Printing.
 
 ## 3. Spring Steel Magnetic Platform
 
