@@ -19,10 +19,10 @@ showToc = true
 tags = ["Review"]
 title = "ANYCUBIC Vyper 3D Printer"
 [cover]
-alt = ""
+alt = " ANYCUBIC Vyper 3D Printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-8.png"
 relative = false
 [editPost]
 Text = ""
