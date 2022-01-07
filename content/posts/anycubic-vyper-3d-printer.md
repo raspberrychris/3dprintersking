@@ -119,19 +119,17 @@ The extrusion system set up is able to reduce the chance of filament tangle.
 
 One of the things that people who have bought this printer love about it is the large touch screen and easy to use interface that it comes with.  We found the UI simple and easy to operate.
 
-How does it compare to other 3D Printers?
+## How does the Vyper compare to other 3D Printers?
 
 ![](/uploads/comparison.png)
 
 In terms of differences when compared to other similar 3D Printers, the Vyper 3D printer doesn't do Laser Engraving like the Mega Pro.  It has a higher Heatbed Temperature than the Mega S, Mega Pro, Mega X and Chiron.  The print speed of the Vyper is also very fast and makes it the fastest of the above in terms of recommended print speed.
 
-[**Click here to Check out the Mega S product listing on Amazon.com...**](#)
+[**Click here to Check out the Mega S product listing on Amazon.com...**](https://www.amazon.com/gp/product/B07J9QGP7S/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07J9QGP7S&linkId=7c8abada9f56ed481d9d92bc73712b41)
 
-[**Click here to Check out the Mega Pro product listing on Amazon.com...**](#)
+[**Click here to Check out the Mega Pro product listing on Amazon.com...**](https://www.amazon.com/gp/product/B08CYXT3DN/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08CYXT3DN&linkId=40cfefd8cef62db3cca39fe36400a02b)
 
 [**Click here to Check out the Vyper product listing on Amazon.com...**](https://www.amazon.com/gp/product/B09JSKJS6V/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B09JSKJS6V&linkId=c67c3dec8c38208ff400038c0b174ed1)
-
-[**Click here to Check out the Chiron product listing on Amazon.com...**](#)
 
 ## Our Verdict
 
