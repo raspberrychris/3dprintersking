@@ -38,11 +38,11 @@ In this review we will take a close look at this 3D Printer and decide how exact
 
 ## Who is the [**ANYCUBIC Vyper 3D Printer **](#)for?
 
-If you are looking to purchase a 3D printer then you may be looking at the Anycubic brand.  Customers who have bought this product on Amazon.com say the top features of this product are the touch screen, the print quality, the adhesion, the tech support and say that it is also suitable for beginners.  This 3D printer from the outset feels like a good allrounder straight away.  Of customers who bought this 3D Printer on Amazon.com 70% of them gave it 5 stars.
+If you are looking to purchase a 3D printer then you may be looking at the ANYCUBIC brand.  Customers who have bought this product on Amazon.com say the top features of this product are the touch screen, the print quality, the adhesion, the tech support and say that it is also suitable for beginners.  This 3D printer from the outset feels like a good allrounder straight away.  Of customers who bought this 3D Printer on Amazon.com 70% of them gave it 5 stars.
 
 ![300 x 300-4](https://m.media-amazon.com/images/S/aplus-media-library-service-media/66ec8f09-b3f1-4ce8-aa4e-b03beec9eff2.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
-The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) It supports a number of filaments, from PLA to TPU, ABS, PETG and also wood.  It has a print resolution of ±0.1mm and has a printing speed of ＜180mm/s (recommended 80-100mm/s)
+The ANYCUBIC Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) It supports a number of filaments, from PLA to TPU, ABS, PETG and also wood.  It has a print resolution of ±0.1mm and has a printing speed of ＜180mm/s (recommended 80-100mm/s)
 
 ### **Essential Specs:**
 
@@ -86,7 +86,7 @@ The Anycubic Vyper 3D Printer is an FDM 3D Printer (Fused Deposition Modeling) I
 
 ![970 x 600-6](https://m.media-amazon.com/images/S/aplus-media-library-service-media/f9e6c625-f6d0-4427-b3d2-0968968dd963.__CR0,0,970,600_PT0_SX970_V1___.jpg)
 
-The [**Anycubic Vyper 3D Printer**](#) doesn’t require manual leveling, the intelligent leveling system can automatically adjust the uneven hotbed, which is a great feature in our opinion.
+The [**ANYCUBIC Vyper 3D Printer**](#) doesn’t require manual leveling, the intelligent leveling system can automatically adjust the uneven hotbed, which is a great feature in our opinion.
 
 ## 2. High-performance Cortex-M3 Chip
 
@@ -94,25 +94,25 @@ Equipped with a new 32-bit motherboard and a high-performance Cortex -M3 archite
 
 ## 
 
-3\. Spring Steel Magnetic Platform
+## 3. Spring Steel Magnetic Platform
 
 fgfgfgf
 
 ## 
 
-4\. Double Fan Two-way Heat Dissipation
+## 4. Double Fan Two-way Heat Dissipation
 
 fgfgfgf
 
 ## 
 
-5\. Z-axis Double Photoelectric Limit
+## 5. Z-axis Double Photoelectric Limit
 
 fgfgfgf
 
 ## 
 
-6\. Double-gear Extrusion System
+## 6. Double-gear Extrusion System
 
 fgfgfgf
 
@@ -136,4 +136,4 @@ fgfgfgf
 
 ⭐⭐⭐⭐⭐
 
-This really is a fantastic mid range 3D Printer.  It is not one of the more affordable printers we have reviewed, but it does have a lot of features crammed into one package.  ANYCUBIC's philosophy is a strong one and their ambition to be the best 3D Printer brand is likely to happen if they keep this level of quality with their 3D Printers.
+This really is a fantastic mid range 3D Printer that is suitable for both advanced users and beginners in our opinion.  It is not one of the most affordable printers we have reviewed, but it does have a lot of features crammed into one package that is sure to delight anyone who has an interest in 3D Printing.  ANYCUBIC's philosophy to be the best 3D Printer Company out there is ambitious, but it seems likely to happen if they keep this level of quality with their 3D Printers.
