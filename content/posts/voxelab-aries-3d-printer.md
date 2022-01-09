@@ -30,7 +30,7 @@ URL = ""
 appendFilePath = false
 
 +++
-![VOXELAB Aries 3D Pinter, Dual Z-axis Rails & Fully Assembled Semi-auto Leveling FDM Printer with Filament Sensor, Carborundum](https://images-na.ssl-images-amazon.com/images/I/61ciuglafIL._AC_UL604_SR604,400_.jpg)
+![VOXELAB-Aries-3D-Printer-Dual-Z-axis-Rails-Fully-Assembled-Semi-auto-Leveling-FDM-Printer-with-Filament-Sensor-Carborundum](https://images-na.ssl-images-amazon.com/images/I/61ciuglafIL._AC_UL604_SR604,400_.jpg "VOXELAB-Aries-3D-Printer-Dual-Z-axis-Rails-Fully-Assembled-Semi-auto-Leveling-FDM-Printer-with-Filament-Sensor-Carborundum")
 
 In this post we will be taking a look at the [**VOXELAB Aries 3D Printer**](#).  This 3D Printer has a print speed of ≤180mm/s and around 20-60mm/s normally.  It comes with a lot of features right out of the box as you would expect with a 3D printer at this price point.  The core features are Resume Print function, dual z axis rails design, filament end sensor, 4.3 inch touch screen, Carbon Silicon Crystal Glass Platform, Multi Slicing Software, WiFi Printing Wireless Transmission, Filament Detection and much more!  If this seems like you type of 3D printer then you can check out the product listing below.  
 
