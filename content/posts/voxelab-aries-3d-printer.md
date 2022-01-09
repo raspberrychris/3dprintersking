@@ -46,6 +46,8 @@ If you are wondering what people who bought this 3D printer thought of it 65% of
 
 ## How big is this 3D Printer?
 
+![Voxelab-aries-3d-printer-size](/uploads/7a694467-95f9-47cc-8f80-5fff3499c3c5.jpeg "Voxelab-aries-3d-printer-size")
+
 **The specifications for this printer are below.** 
 
 * Printer Size: 406 x 424 x 469mm (15.90 x 16.69 x 18.48 in)
