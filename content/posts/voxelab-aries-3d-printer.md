@@ -1,17 +1,16 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
-categories = "Voxelab"
+categories = "VOXELAB"
 comments = false
-date = 2021-12-12T00:00:00Z
+date = 2022-01-09T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
