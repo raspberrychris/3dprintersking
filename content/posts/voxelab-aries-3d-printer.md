@@ -34,7 +34,7 @@ appendFilePath = false
 
 In this post we will be taking a look at the [**VOXELAB Aries 3D Printer**](#).  This 3D Printer has a print speed of ≤180mm/s and around 20-60mm/s normally which doesn’t make it one of the fastest 3D printers that we have reviewed, but it is competitive.  It comes with a bit of PLA filament so you have everything you need to get started.  In terms of assembly it comes largely assembled already so it is suitable for beginners and is easy to put together.
 
-It comes with a lot of features right out of the box as you would expect with a 3D printer at this price point.  The core features are Resume Print function, dual z axis rails design, filament end sensor, 4.3 inch touch screen, Carbon Silicon Crystal Glass Platform, Multi Slicing Software, WiFi Printing Wireless Transmission, Filament Detection and much more!  If this seems like you type of 3D printer that you are looking for, then you can find more details about this 3D printer from the product listing.
+[**The VOXELAB Aries 3D Printer**](#) comes with a lot of features right out of the box as you would expect with a 3D printer at this price point.  The core features are Resume Print function, dual z axis rails design, filament end sensor, 4.3 inch touch screen, Carbon Silicon Crystal Glass Platform, Multi Slicing Software, WiFi Printing Wireless Transmission, Filament Detection and much more!  If this seems like you type of 3D printer that you are looking for, then you can find more details about this 3D printer from the product listing.
 
 [**Click here to check out the VOXELAB Aries 3D Printer product listing on Amazon.com…**](#)
 
