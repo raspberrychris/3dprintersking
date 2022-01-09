@@ -36,6 +36,8 @@ In this post we will be taking a look at the [**VOXELAB Aries 3D Printer**](#). 
 
 [**The VOXELAB Aries 3D Printer**](#) comes with a lot of features right out of the box as you would expect with a 3D printer at this price point.  The core features are Resume Print function, dual z axis rails design, filament end sensor, 4.3 inch touch screen, Carbon Silicon Crystal Glass Platform, Multi Slicing Software, WiFi Printing Wireless Transmission, Filament Detection and much more!  If this seems like you type of 3D printer that you are looking for, then you can find more details about this 3D printer from the product listing.
 
+Like some of the other 3D printers that we have reviewed, the VOXELAB Aries 3D Printer comes with lifetime technical assistance and also included is a 1 year warranty.
+
 [**Click here to check out the VOXELAB Aries 3D Printer product listing on Amazon.com…**](#)
 
 In this review we will be going to put this 3D printer through it paces to understand how it performs against the competition.  There are a lot of really fantastic 3D Printer brands out there at the moment such as [**Creality**](#) and [**FlashForge**](#), and we want to understand how exactly this 3D printer compares to some of the other 3D Printers on the market.
@@ -76,3 +78,9 @@ Enjoy 3D print fun right out of the box. After unboxing, you can start printing 
 **After-sale Service**
 
 All Voxelab 3d printers are provided lifetime technical assistance. If you have any questions regarding product operation or software please feel free to contact us.
+
+## Our Verdict
+
+**3.5/5**
+
+This is a great 3D printer from VOXELAB but at this price point we would expect a little more.
