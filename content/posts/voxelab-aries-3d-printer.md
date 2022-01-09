@@ -31,19 +31,19 @@ appendFilePath = false
 +++
 ![VOXELAB-Aries-3D-Printer-Dual-Z-axis-Rails-Fully-Assembled-Semi-auto-Leveling-FDM-Printer-with-Filament-Sensor-Carborundum](https://images-na.ssl-images-amazon.com/images/I/61ciuglafIL._AC_UL604_SR604,400_.jpg "VOXELAB-Aries-3D-Printer-Dual-Z-axis-Rails-Fully-Assembled-Semi-auto-Leveling-FDM-Printer-with-Filament-Sensor-Carborundum")
 
-In this post we will be taking a look at the [**VOXELAB Aries 3D Printer**](#).  This 3D Printer has a print speed of ≤180mm/s and around 20-60mm/s normally which doesn’t make it one of the fastest 3D printers that we have reviewed, but it is competitive.  It comes with a bit of PLA filament so you have everything you need to get started.  In terms of assembly it comes largely assembled already so it is suitable for beginners and is easy to put together.
+In this post we will be taking a look at the [**VOXELAB Aries 3D Printer**](https://www.amazon.com/Assembled-Semi-auto-Leveling-Filament-Carborundum/dp/B092S93Q7J?pd_rd_i=B092S93Q7J&th=1&linkCode=ll1&tag=crosguy-20&linkId=69b54637196f7f7a2fa4215ac1830889&language=en_US&ref_=as_li_ss_tl).  This 3D Printer has a print speed of ≤180mm/s and around 20-60mm/s normally which doesn’t make it one of the fastest 3D printers that we have reviewed, but it is competitive.  It comes with a bit of PLA filament so you have everything you need to get started.  In terms of assembly it comes largely assembled already so it is suitable for beginners and is easy to put together.
 
 ![](/uploads/1a38ad4f-c18d-4634-8b41-7457084f9b15.jpeg)
 
 ## Who is the VOXELAB Aries 3D Printer for?
 
-We would say that the [**VOXELAB Aries 3D Printer**](#) would mostly suit beginners to 3D printing, but it is also good if you wish to print slightly larger models, as this 3D Printer accommodates a build size of 200 x 200 x 200mm 
+We would say that the [**VOXELAB Aries 3D Printer**](https://www.amazon.com/Assembled-Semi-auto-Leveling-Filament-Carborundum/dp/B092S93Q7J?pd_rd_i=B092S93Q7J&th=1&linkCode=ll1&tag=crosguy-20&linkId=69b54637196f7f7a2fa4215ac1830889&language=en_US&ref_=as_li_ss_tl) would mostly suit beginners to 3D printing, but it is also good if you wish to print slightly larger models, as this 3D Printer accommodates a build size of 200 x 200 x 200mm 
 
-[**The VOXELAB Aries 3D Printer**](#) comes with a lot of features right out of the box as you would expect with a 3D printer at this price point.  The core features are Resume Print function, dual z axis rails design, filament end sensor, 4.3 inch touch screen, Carbon Silicon Crystal Glass Platform, Multi Slicing Software, WiFi Printing Wireless Transmission, Filament Detection and much more!  If this seems like you type of 3D printer that you are looking for, then you can find more details about this 3D printer from the product listing.
+[**The VOXELAB Aries 3D Printer**](https://www.amazon.com/Assembled-Semi-auto-Leveling-Filament-Carborundum/dp/B092S93Q7J?pd_rd_i=B092S93Q7J&th=1&linkCode=ll1&tag=crosguy-20&linkId=69b54637196f7f7a2fa4215ac1830889&language=en_US&ref_=as_li_ss_tl) comes with a lot of features right out of the box as you would expect with a 3D printer at this price point.  The core features are Resume Print function, dual z axis rails design, filament end sensor, 4.3 inch touch screen, Carbon Silicon Crystal Glass Platform, Multi Slicing Software, WiFi Printing Wireless Transmission, Filament Detection and much more!  If this seems like you type of 3D printer that you are looking for, then you can find more details about this 3D printer from the product listing.
 
-Like some of the other 3D printers that we have reviewed, the [**VOXELAB Aries 3D Printer**](#) comes with lifetime technical assistance and also included is a 1 year warranty.
+Like some of the other 3D printers that we have reviewed, the [**VOXELAB Aries 3D Printer**](https://www.amazon.com/Assembled-Semi-auto-Leveling-Filament-Carborundum/dp/B092S93Q7J?pd_rd_i=B092S93Q7J&th=1&linkCode=ll1&tag=crosguy-20&linkId=69b54637196f7f7a2fa4215ac1830889&language=en_US&ref_=as_li_ss_tl) comes with lifetime technical assistance and also included is a 1 year warranty.
 
-[**Click here to check out the VOXELAB Aries 3D Printer product listing on Amazon.com…**](#)
+[**Click here to check out the VOXELAB Aries 3D Printer product listing on Amazon.com…**](https://www.amazon.com/Assembled-Semi-auto-Leveling-Filament-Carborundum/dp/B092S93Q7J?pd_rd_i=B092S93Q7J&th=1&linkCode=ll1&tag=crosguy-20&linkId=69b54637196f7f7a2fa4215ac1830889&language=en_US&ref_=as_li_ss_tl)
 
 In this review we will be going to put this 3D printer through it paces to understand how it performs against the competition.  There are a lot of really fantastic 3D Printer brands out there at the moment such as [**Creality**](/category/creality/) and [**FlashForge**](/category/flashforge/), and we want to understand how exactly this 3D printer compares to some of the other 3D Printers on the market.
 
