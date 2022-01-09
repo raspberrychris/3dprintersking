@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "VOXELAB Aries 3D Printer"
 [cover]
-alt = ""
+alt = "Voxelab-aries-3d-printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-44.png"
 relative = false
 [editPost]
 Text = ""
