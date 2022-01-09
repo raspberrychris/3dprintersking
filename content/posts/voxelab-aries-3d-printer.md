@@ -92,6 +92,8 @@ LED lights design illuminates your printing field of vision, allowing you to eas
 
 **Out of Box to Print**
 
+![Larger-print-size](/uploads/569b650b-d4f9-4170-99cf-dc8aed2fe39d.jpeg "Larger-print-size")
+
 Enjoy 3D print fun right out of the box. After unboxing, you can start printing in just 3 steps: 
 
 1\. Install glass build platform. 
@@ -108,4 +110,6 @@ All Voxelab 3D printers are provided lifetime technical assistance.
 
 **4/5**
 
-This is a great 3D printer from [**VOXELAB**](/category/voxelab) which is fast to set up and has great print quality.  In terms of noise level it is not the quietest on the market but it is manageble.  It is very competitive when compared to some of the other 3D printers we have reviewed, and has very similar features at a good price point.  The Aries also has a large build area which makes it suitable for those who want to print larger models.  Overall we would say that this is a really great 3D printer for the money and is really affordable.
+This is a great 3D printer from [**VOXELAB**](/category/voxelab) which is fast to set up and has great print quality.  In terms of noise level it is not the quietest on the market but it is adequate.  It is very competitive when compared to some of the other 3D printers we have reviewed, and has very similar features at a good price point.  The Aries 3D Printer also has a large build area which makes it suitable for those who want to print larger models.  
+
+Overall we would say that this is a really great 3D printer for the money and is really affordable.  
