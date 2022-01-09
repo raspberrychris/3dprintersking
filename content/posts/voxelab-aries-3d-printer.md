@@ -81,6 +81,6 @@ All Voxelab 3d printers are provided lifetime technical assistance. If you have 
 
 ## Our Verdict
 
-**3.5/5**
+**4/5**
 
-This is a great 3D printer from VOXELAB but at this price point we would expect a little more.
+This is a great 3D printer from [**VOXELAB**](#) which is fast to set up and has great print quality.  It is very competitive when compared to some of the other 3D printers we have reviewed, and has very similar features.  The Aries has a large build area which makes it suitable for those who want to print larger models.
