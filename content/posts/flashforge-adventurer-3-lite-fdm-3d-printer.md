@@ -30,7 +30,7 @@ URL = ""
 appendFilePath = false
 
 +++
-![FlashForge Adventurer 3 Lite FDM 3D Printer](https://images-na.ssl-images-amazon.com/images/I/51kWqP8ROvL._AC_UL604_SR604,400_.jpg)
+![FlashForge Adventurer 3 Lite FDM 3D Printer](https://images-na.ssl-images-amazon.com/images/I/51kWqP8ROvL._AC_UL604_SR604,400_.jpg "FlashForge Adventurer 3 Lite FDM 3D Printer")
 
 In this post we will have a look at the [**FlashForge Adventurer 3 Lite FDM 3D Printer**](#)**.**  This 3D Printer comes from a well respected brand, [**FlashForge**](/category/flashforge), who have made quite a name for themselves with their 3D printers over the past few years.  The Adventurer 3 Lite weighs 27.2 pounds and comes with ultra quiet printing (45db).  If you are wondering what the difference between this 3D Printer and the adventure 3 is is that the Adventure 3 includes a WiFi camera, whereas the Adventurer 3 Lite does not have one. The Adventurer 3 comes with a full spool of filament. Adventurer 3 Lite comes with a smaller sample size filament in around 50-60g.
 
