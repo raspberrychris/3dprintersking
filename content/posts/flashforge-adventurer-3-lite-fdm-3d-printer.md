@@ -39,3 +39,15 @@ This 3D Printer comes with a detachable nozzle, removable and flexible build pla
 ## What do customers who bought this printer think of it?
 
 Of customers who have bought this 3D printer on Amazon.com 74% of them gave it 5/5 stars showing that it is one of the higher rated 3D printers in the market.  Customers say that it is easy to use, they like the touch screen, the print quality, adhesion and think that it is best suited to beginners and represents value for money.
+
+### How easy is the FlashForge Adventurer 3 Lite FDM 3D Printer to use?
+
+In our tests we were able to get up and ready with this 3D Printer in less than an hour with minimal calibration.
+
+### How does it compare to other FlashForge 3D Printers?
+
+### ![flashforge-comparison](/uploads/flashforge-comparison.png "flashforge-comparison")
+
+As you can see from the comparison chart above FlashForge printers are slightly different.  We have outlined the key differences in the intro, but if you want to get into more detail you can look at the comparison below.  The key difference from our perspective is that the Lite version of the Adventurer doesn't have a HD camera.  It also comes with a very small amount of Filament included.
+
+ 
