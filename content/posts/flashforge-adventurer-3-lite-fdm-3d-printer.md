@@ -1,7 +1,7 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
@@ -31,3 +31,5 @@ appendFilePath = false
 
 +++
 ![FlashForge Adventurer 3 Lite FDM 3D Printer](https://images-na.ssl-images-amazon.com/images/I/51kWqP8ROvL._AC_UL604_SR604,400_.jpg)
+
+In this post we will have a look at the [**FlashForge Adventurer 3 Lite FDM 3D Printer**](#)**.**  This 3D Printer
