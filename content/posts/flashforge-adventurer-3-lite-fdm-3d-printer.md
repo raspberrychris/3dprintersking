@@ -81,6 +81,6 @@ As you can see from the comparison chart above FlashForge printers are slightly 
 
 [**FlashForge**](/category/flashforge) are a great brand and we love their printers here on [**3dprintersking.com**](https://3dprintersking.com).  The lite version of the Adventurer is definitely a printer that would be useful for beginners to learn on.  The included Filament is extremely small however, so that would be our only major improvement here.   Also you don't get a camera included with this obviously.  If you do want a HD camera then you may be better off looking at the [**FlashForge Adventurer 3 3D Printer.**](https/posts/flashforge-adventurer-3-3d-printer/)
 
-In terms of the build size it isn't the biggest out there, but it is a compact unit and might be suitable if you have a smaller space to keep it.  All in all we feel that this is a great starter 3D Printer and its ease of use is really one of its strongest points, for that reason we would say that this 3D printer would be great for beginners to 3D printing.
+In terms of the build size it isn't the biggest out there, but it is a compact unit and might be suitable if you have a smaller space to keep it.  All in all we feel that this is a great starter 3D Printer and its ease of use is really one of its strongest points, for that reason we would say that this 3D printer would be great for beginners to 3D printing or more casual users.
 
 [**Click here to check out the FlashForge Adventurer 3 Lite FDM 3D Printer on Amazon.com...**](#)
