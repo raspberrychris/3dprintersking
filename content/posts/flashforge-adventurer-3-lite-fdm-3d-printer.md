@@ -11,7 +11,6 @@ date = 2022-01-10T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -19,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "FlashForge Adventurer 3 Lite FDM 3D Printer"
 [cover]
-alt = ""
+alt = "flashforge-adventurer-3-lite-fdm-3d-printer-review"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-9.png"
 relative = false
 [editPost]
 Text = ""
