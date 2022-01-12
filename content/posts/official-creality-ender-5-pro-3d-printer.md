@@ -1,11 +1,11 @@
 +++
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
-TocOpen = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
-categories = "Creality"
+categories = "Comgrow"
 comments = false
 date = 2021-12-12T00:00:00Z
 description = ""
