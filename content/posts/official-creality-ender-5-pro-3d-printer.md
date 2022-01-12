@@ -31,11 +31,11 @@ appendFilePath = false
 +++
 ![Official Creality Ender 5 Pro 3D Printer Upgrade Silent Mother Board Metal Feeder Extruder and Capricorn Bowden PTFE Tubing 2](https://images-na.ssl-images-amazon.com/images/I/612srQLX7SS._AC_UL604_SR604,400_.jpg)
 
-In this post we will be taking a look at the [**Official Creality Ender 5 Pro 3D Printer**](#)**.**  This 3D printer comes to us as highly recommended and in particular we have heard that customers who bought this 3D printer because it is easy to assemble, has great tech support, is easy to use and is also suitable for a wide range of people from beginners to more regular 3D Printer enthusiasts.  In this review we will be taking the [**Official Creality Ender 5 Pro 3D Printer**](#) through its paces and see how it stacks up against the competition and see whether it represents good value for money.  We will look at the features of the 3D printer
+In this post we will be taking a look at the [**Official Creality Ender 5 Pro 3D Printer**](https://www.amazon.com/gp/product/B081SPJ2VX/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081SPJ2VX&linkId=16cdde71aec1a5d97006f45bc8c713ab)**.**  This 3D printer comes to us as highly recommended and in particular we have heard that customers who bought this 3D printer because it is easy to assemble, has great tech support, is easy to use and is also suitable for a wide range of people from beginners to more regular 3D Printer enthusiasts.  In this review we will be taking the [**Official Creality Ender 5 Pro 3D Printer**](https://www.amazon.com/gp/product/B081SPJ2VX/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081SPJ2VX&linkId=16cdde71aec1a5d97006f45bc8c713ab) through its paces and see how it stacks up against the competition and see whether it represents good value for money.  We will look at the features of the 3D printer
 
 ![1](https://m.media-amazon.com/images/S/aplus-media/sc/fceb88e1-0a49-4077-ada1-9f96c697dfd2.__CR0,0,300,300_PT0_SX300_V1___.jpg)
 
-[**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](#)
+[**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](https://www.amazon.com/gp/product/B081SPJ2VX/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081SPJ2VX&linkId=16cdde71aec1a5d97006f45bc8c713ab)
 
 ## Features of the Official Creality Ender 5 Pro 3D Printer
 
@@ -51,7 +51,7 @@ In this post we will be taking a look at the [**Official Creality Ender 5 Pro 3D
 
 Over 70% of the almost 1000 people who bought this 3D printer think that it is worthy of 5/5 stars.  This is one of the highest ratings we have seen from Amazon.com and it really shows the fact that outside of our review people really rate this 3D Printer highly.  In particular customers who bought this 3D printer really rated the print quality and the fact that it was so easy to use and takes only around an hour to set up.
 
-[**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](#)
+[**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](https://www.amazon.com/gp/product/B081SPJ2VX/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081SPJ2VX&linkId=16cdde71aec1a5d97006f45bc8c713ab)
 
 ## Official Creality Ender 5 Pro 3D Printer - Who is it for?
 
@@ -69,13 +69,13 @@ One of the criticisms of many 3D Printers is the noise output. The Ender 5 Pro d
 
 ### 
 
-Capricorn Premium XS Bowden Tubing
+### Capricorn Premium XS Bowden Tubing
 
 The Capricorn XS Bowden Tubing has a high temperature resistance making feeding into the machine smoother overall and means that you get a fantastic print texture.  From our tests we can say that this really is a key feature for us in our opinion.
 
 ### 
 
-Brand Power Supply
+### Brand Power Supply
 
 ![](https://m.media-amazon.com/images/I/61mit+HkObL._SX522_.jpg)
 
@@ -83,24 +83,24 @@ The hot bed for this 3D printer is capable of heating up to 110 C in 5 minutes!
 
 ### 
 
-Y axis with dual shaft
+### Y axis with dual shaft
 
 If you have had a 3D printer that has had issues with shock imbalance after printing for a long time then you will like this feature.  The Y axis with dual shaft makes the output of your 3D Printer more stable.
 
 ### 
 
-220X220X300 Printing Size
+### 220 X 220 X 300 Printing Size
 
 Need to create more than one model?  Now you can!  This 3D printer really had a big build area, and is one of the biggest that we have reviewed so far.  This means that you can create more ambitious models or even multiple models if you want to.
 
 ### 
 
-Removable Building Surface
+### Removable Building Surface
 
 The removable building surface enables you to remove models really easily.  This is a nice feature that we have seen on some other 3D printers, but it is nice that it has been incorporated into the Official Creality Ender 5 Pro 3D Printer.
 
 [  
-**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](#)
+**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](https://www.amazon.com/gp/product/B081SPJ2VX/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081SPJ2VX&linkId=16cdde71aec1a5d97006f45bc8c713ab)
 
 ## Our Verdict
 
@@ -110,4 +110,4 @@ The removable building surface enables you to remove models really easily.  This
 
 This is a fantastic printer and one of our favourites here at [**3D Printers King**](https://3dprintersking.com).  If you are looking for a really good quality 3D Printer that gives you high quality prints then you can't go far wrong with this model from [**Comgrow**](/categories/comgrow).  It is packed with features that make it easy to use and also has a huge build area so if you need to you can create multiple models at the same time, you really can with this 3D Printer!   This isn't exactly a beginners 3D printer, but it is definitely a 3D Printer that you can grow into in our opinion.  How does it compare with the competition?  In terms of the build area we would say that at this price point it may be hard to find this quality of printer combined with this build area.  Having the bigger build area does obviously mean that the footprint of the machine is larger, which may not suit everyone, but we think that this will make your 3D Printing more enjoyable in the long run as you will have more space to expand your creations when you get more used to 3D Printing.
 
-[**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](#)
+[**Click here to check out the Official Creality Ender 5 Pro 3D Printer product page on Amazon.com...**](https://www.amazon.com/gp/product/B081SPJ2VX/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081SPJ2VX&linkId=16cdde71aec1a5d97006f45bc8c713ab)
