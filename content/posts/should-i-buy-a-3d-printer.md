@@ -29,7 +29,7 @@ URL = ""
 appendFilePath = false
 
 +++
-**3D printers can be a lot of fun and very useful machines to have at home. In this article we're going to discuss the pros and cons of owning a 3D printer and what you actually get out of owning a 3D printer. It's important to consider these things before you make the decision to buy a 3D printer.  Without further ado, lets dive in and see what the pros and cons are of owning a 3D Printer.**
+**3D printers can be a lot of fun and very useful machines to have at home. In this article we're going to discuss the pros and cons of owning a 3D printer and what you actually get out of owning a 3D printer. It's important to consider these things before you make the decision to buy a 3D printer.  Without further ado, lets dive in and see what the pros and cons are of owning a 3D Printer!**
 
 ## Pros and Cons of Owning a 3D Printer
 
