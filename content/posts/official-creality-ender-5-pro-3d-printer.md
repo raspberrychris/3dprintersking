@@ -11,7 +11,6 @@ date = 2021-12-12T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = true
 searchHidden = false
@@ -19,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "Official Creality Ender 5 Pro 3D Printer"
 [cover]
-alt = ""
+alt = "Official Creality Ender 5 Pro 3D Printer"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3.png"
 relative = false
 [editPost]
 Text = ""
