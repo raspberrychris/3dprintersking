@@ -117,6 +117,8 @@ So how does the Photon Mono X 3D Printer compare to other 3D Printers on the mar
 
 ## Our Verdict 
 
+![Your One-Stop 3D Printing Solution](https://m.media-amazon.com/images/S/aplus-media-library-service-media/7450edf5-43b1-4f0c-8498-4d5403e00735.__CR0,0,970,600_PT0_SX970_V1___.jpg "Your One-Stop 3D Printing Solution")
+
 Overall we think this is a fantastic Resin 3D Printer and we can highly recommend it on all fronts.  It is very high quality and it comes with a huge touch screen.  The 3D printer is easy to use and has a lot of fantastic features packed into one box.  The build size is also big enough for you to grow into and run multiple projects.  If you are looking for a high quality 3D printer that is easy to use then you will probably like the [ANYCUBIC Photon Mono Resin 3D Printer.](#)
 
 ##### **5/5**
