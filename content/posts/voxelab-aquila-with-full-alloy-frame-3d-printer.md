@@ -42,9 +42,9 @@ Out of the customers who bought this 3D printer from Voxelab 66% of them out of 
 
 ## Voxelab Aquila with Full Alloy Frame 3D Printer - Who is it for?
 
-This 3D Printer is more on the affordable end of the 3D printers market meaning that it is best suited to an entry level or beginner to 3D printing in our opinion.  The standout feature of this 3D printer is its affordability and as such it is hard to criticise too many of the features within this package as it represents such good value over all.
+This 3D Printer is more on the affordable end of the 3D printers market meaning that it is best suited to an entry level or beginner to 3D printing in our opinion.  If you have used the Ender 3 V2 then this 3D printer will feel very familiar to you.  We think that one of the standout features of this 3D printer is its affordability, and as such it is hard to criticise too many of the features within this package as it represents such good value over all when compared to some of the competitors.
 
-If you are looking for a 3D printer that has simple installation and maintenance then the **Voxelab Aquila with Full Alloy Frame 3D Printer** may be appealing for you.
+If you are looking for a 3D printer that has simple installation and maintenance then the [**Voxelab Aquila with Full Alloy Frame 3D Printer**](#) may be appealing for you.
 
 ## Voxelab Aquila with Full Alloy Frame 3D Printer Features
 
