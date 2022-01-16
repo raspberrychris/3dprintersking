@@ -12,7 +12,6 @@ date = 2022-01-16T12:00:00Z
 description = "In this review we will be taking a look at the XYZ Printing Da Vinci Mini Wireless 3D Printer."
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -70,6 +69,12 @@ Make your dreams into reality with the FREE downloadable version of XYZmaker 3D 
 If you are an absolute beginner to 3D Printing then you might find this 3D Printer absolutely amazing - setup is really very simple, so simple, that it might just be one of the fastest setups we have seen from a 3D Printer that we have reviewed.
 
 If you are looking for a 3D Printer that has great print quality then there are better 3D Printers out there that have a superior print quality.  What this 3D Printer does excel at though is being extremely portable and providing an easy gateway for beginners into 3D printing.
+
+## How does it compare to other 3D Printers?
+
+![](/uploads/davinci-comparison-products.png)
+
+If you are looking for a beginners 3D printer then this is a great entry level printer.  If you check out the comparison table above you can see the differences between the different Da Vinci 3D Printers.  What you require will depend on your individual situation.
 
 ## Our Verdict 
 
