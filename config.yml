@@ -54,6 +54,9 @@ languages:
                 - name: Buying Guides
                   url: "/tags/buying-guides"
                   weight: 30
+                - name: Contact
+                  url: "/contact"
+                  weight: 70
 
 
 
@@ -88,8 +91,8 @@ params:
         title: PaperMod
         imageUrl: "#"
         imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 120
+        imageHeight: 120
         buttons:
             - name: Archives
               url: archives
@@ -99,7 +102,7 @@ params:
     homeInfoParams:
         Title: "3D Printers King"
         Content: >
-            Welcome to 3dprintersking.com where we help you to make the right choice when purchasing your next 3D Printer!
+            Welcome to 3dprintersking.com where we help you to make the right choice when purchasing your next 3D Printer! Browse our reviews and buying guides of the latest 3D printers.
 
 
             My name is Chris and I got into 3D Printing over the last couple of years, since then I have been documenting my findings on 3D Printing into this blog to share my opinion and reviews of the different 3D Printers out there.
@@ -112,7 +115,7 @@ params:
 
     editPost:
         URL: "/contact"
-        Text: "" # edit text
+        Text: "Contact us" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # label:
