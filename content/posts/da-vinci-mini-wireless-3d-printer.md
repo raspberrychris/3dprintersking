@@ -19,10 +19,10 @@ showToc = true
 tags = ["Review"]
 title = "XYZ Printing Da Vinci Mini Wireless 3D Printer - The most portable 3D Printer?"
 [cover]
-alt = ""
+alt = "XYZ Printing Da Vinci Mini Wireless 3D printer Review"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-4-copy.webp"
 relative = false
 [editPost]
 Text = ""
