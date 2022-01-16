@@ -11,7 +11,6 @@ date = 2022-01-15T12:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -67,6 +66,10 @@ Aquila is a straight forward BD printer based on open source technology. It allo
 **Warranty and Service**
 
 All Voxelab 3D printers provides Lifetime technical support and 12 months warranty, with 24 hours quick response.
+
+## Video review of the Voxelab Aquila 3D Printer
+
+{{< youtube QJ_Fya3nqfM >}}
 
 ## Our Verdict
 
