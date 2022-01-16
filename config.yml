@@ -30,8 +30,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
+                - name: Brands
+                  url: brands/
                   weight: 10
 
         menu:
@@ -149,7 +149,7 @@ params:
     #     keys: ["title", "permalink", "summary", "content"]
 
 taxonomies:
-    category: categories
+    category: brands
     tag: tags
     series: series
 
