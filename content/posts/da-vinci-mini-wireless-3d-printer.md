@@ -32,11 +32,11 @@ appendFilePath = false
 +++
 ![da Vinci Mini Wireless 3D Printer-6"x6"x6" Volume (Includes: 300g Filament, PLA/Tough PLA/PETG) - Upgradable to print Metalli](https://images-na.ssl-images-amazon.com/images/I/619eOfH+4SL._AC_UL604_SR604,400_.jpg)
 
-In this review we will be taking a look at the **XYZ Printing Da Vinci Mini Wireless 3D Printer.** It's one of the smaller sized 3D Printers that we have reviewed, weighing in a 22.1 pounds, with dimensions of and a build volume of 5.91 x 5.91 x 5.91”.  It has a printing speed of 100mm/s and supports PLA filament.  In terms of connectivity it simple and through USB and WiFi.
+In this review we will be taking a look at the [**XYZ Printing Da Vinci Mini Wireless 3D Printer**](https://www.amazon.com/gp/product/B07D3FCKH1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D3FCKH1&linkId=8c0518c1fe7fe92b3ac9752973838665)**.** It's one of the smaller sized 3D Printers that we have reviewed, weighing in a 22.1 pounds, with dimensions of and a build volume of 5.91 x 5.91 x 5.91”.  It has a printing speed of 100mm/s and supports PLA filament.  In terms of connectivity it simple and through USB and WiFi.
 
-[**Click here to check out the XYZ Printing Da Vinci Mini Wireless 3D Printer product listing on Amazon.com...**](#)
+[**Click here to check out the XYZ Printing Da Vinci Mini Wireless 3D Printer product listing on Amazon.com...**](https://www.amazon.com/gp/product/B07D3FCKH1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D3FCKH1&linkId=8c0518c1fe7fe92b3ac9752973838665)
 
-## Features - XYZ Printing Da Vinci Mini Wireless 3D Printer
+## Features - [XYZ Printing Da Vinci Mini Wireless 3D Printer](https://www.amazon.com/gp/product/B07D3FCKH1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D3FCKH1&linkId=8c0518c1fe7fe92b3ac9752973838665)
 
 ### Compact and productive
 
@@ -56,7 +56,7 @@ The Da Vinci mini filaments are made using PLA plastics derived from corn starch
 
 ### Single Button Design Printing
 
-The Da Vinci mini streamlines its printing function through a single-button printer design as well as providing different colored LEDs to indicate printing conditions.
+[**The Da Vinci mini**](https://www.amazon.com/gp/product/B07D3FCKH1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D3FCKH1&linkId=8c0518c1fe7fe92b3ac9752973838665) streamlines its printing function through a single-button printer design as well as providing different colored LEDs to indicate printing conditions.
 
 ### Free 3D Modeling design software for beginners
 
@@ -76,7 +76,7 @@ If you are looking for a 3D Printer that has great print quality then there are 
 
 If you are looking for a beginners 3D printer then this is a great entry level printer.  If you check out the comparison table above you can see the differences between the different Da Vinci 3D Printers.  What you require will depend on your individual situation.
 
-## Our Verdict 
+## Our Verdict
 
 ![3d printer](/uploads/h-e-dormer-image.png "3d printer")
 
@@ -88,4 +88,4 @@ If you are looking for a beginners 3D printer then this is a great entry level p
 
 This 3D printer is one of the most portable 3D Printers that we have reviewed on [**3D Printers King**](https://3dprintersking.com).  If you are looking for a very portable 3D printer and the build size is not an issue for you then you will be interested in this 3D printer.  Also if you are living in a smaller sized apartment and you don't want you 3D printer to encroach on your living space then this 3D printer will be perfect for you.  If you are a beginner to 3D printing then you are also going to love this 3D printer for its ease of use, clever design and the fact that everything is included right out of the box and setup is an absolute breeze taking around 15 minutes.  So is this the perfect entry level 3D Printer?  It almost is in our opinion, the one thing that we would like to see from the future is more support for 3rd party filament and not to be 100% locked into XYZ Printing's filament.  We think this factor is likely to put off some more advanced users, but if this is not of a concern to you then you will love this 3D Printer!  If you want to jump to learn more about this 3D Printer, check out the link below.
 
-[**Click here to check out the XYZ Printing Da Vinci Mini Wireless 3D Printer product listing on Amazon.com...**](#)
+[**Click here to check out the XYZ Printing Da Vinci Mini Wireless 3D Printer product listing on Amazon.com...**](https://www.amazon.com/gp/product/B07D3FCKH1/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D3FCKH1&linkId=8c0518c1fe7fe92b3ac9752973838665)
