@@ -83,7 +83,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowToc: true
-    # comments: false
+    comments: true
     images: ["papermod-cover.png"]
 
     profileMode:
@@ -118,10 +118,10 @@ params:
         Text: "Contact us" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    label:
+        text: "Home"
+        icon: icon.png
+        iconHeight: 35
 
     # analytics:
     #     google:
