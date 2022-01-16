@@ -1,15 +1,15 @@
 +++
 Brands = "XYZ Printing "
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 TocOpen = true
 author = "3D Printers King"
 canonicalURL = ""
 categories = "Da Vinci"
-comments = false
+comments = true
 date = 2022-01-16T12:00:00Z
-description = ""
+description = "In this review we will be taking a look at the XYZ Printing Da Vinci Mini Wireless 3D Printer."
 disableHLJS = false
 disableShare = false
 draft = true
