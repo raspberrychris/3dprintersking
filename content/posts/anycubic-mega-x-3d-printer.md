@@ -34,6 +34,12 @@ appendFilePath = false
 
 In this review we will be taking a look at the[ **ANYCUBIC MEGA X 3D Printer.**](#)
 
+## Whats included in the Box?
+
+You get nicely organised set of things with this 3D Printer which make it a lot easier to get started.  
+
+![The package list of Anycubic mega x](https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4b24879-cc29-4c61-a6ad-16e6a51faf0c.__CR0,0,970,300_PT0_SX970_V1___.jpg)
+
 ## Features of the ANYCUBIC MEGA X 3D Printer
 
 ### Fast Assembly
@@ -61,6 +67,8 @@ No hassle of sticker any more, Ultrabase bed surface coated with patented microp
 One click to resume from the last recorded position when suffered power outages, TFT
 
 ### Touch Screen
+
+![touchscreen](https://m.media-amazon.com/images/S/aplus-media/sc/c3bd1ab1-43a5-4700-b51b-42332299192f.__CR0,0,300,300_PT0_SX300_V1___.jpg "touchscreen")
 
 As responsive as operating on the phone, Meanwell Power Supply: Compliance with UL60950-1, enhance the safety performance,
 
