@@ -8,7 +8,7 @@ author = "3D Printers King"
 canonicalURL = ""
 comments = true
 date = 2022-01-16T00:00:00Z
-description = ""
+description = "In this review we'll be diving into the ANYCUBIC MEGA X 3D Printer and seeing how it performs against the competition!"
 disableHLJS = false
 disableShare = false
 hideSummary = false
@@ -18,10 +18,10 @@ showToc = true
 tags = ["Review"]
 title = "ANYCUBIC MEGA X 3D Printer"
 [cover]
-alt = ""
+alt = "ANYCUBIC Mega X 3D Printer Review"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-4-copy-2.webp"
 relative = false
 [editPost]
 Text = ""
