@@ -39,7 +39,9 @@ In this review we will be taking a look at the **XYZ Printing Da Vinci Mini Wire
 
 ## Features - XYZ Printing Da Vinci Mini Wireless 3D Printer
 
-Compact and productive: The da Vinci mini is 30％ smaller than da Vinci Jr. 1.0 and has a 5.9" X 5.9" X 5.9" Aluminum printer bed for larger and finer prints
+### Compact and productive
+
+The da Vinci mini is 30％ smaller than da Vinci Jr. 1.0 and has a 5.9" X 5.9" X 5.9" Aluminum printer bed for larger and finer prints
 
 ![](https://m.media-amazon.com/images/I/615zHD2opWL._SX522_.jpg)
 
@@ -47,11 +49,15 @@ Compact and productive: The da Vinci mini is 30％ smaller than da Vinci Jr. 1.0
 
 Connect wirelessly to your home network for easy 3D printing
 
+### Da Vinci Filaments are non-toxic
+
 The Da Vinci mini filaments are made using PLA plastics derived from corn starch, making them environmental and non-toxic
 
 ### Single Button Design Printing
 
-The Da Vinci mini streamlines its printing function through a single-button printer design as well as providing different colored LEDs to indicate printing Conditions
+The Da Vinci mini streamlines its printing function through a single-button printer design as well as providing different colored LEDs to indicate printing conditions.
+
+### Free 3D Modeling design software for beginners
 
 Make your dreams into reality with the FREE downloadable version of XYZmaker 3D modeling design software for beginners. Connector type: Wi-Fi .
 
@@ -61,6 +67,6 @@ Make your dreams into reality with the FREE downloadable version of XYZmaker 3D 
 
 ⭐⭐⭐⭐
 
-This 3D printer is one of the most portable 3D Printers that we have reviewed on [**3D Printers King**](https://3dprintersking.com).  If you are looking for a very portable 3D printer and the build size is not an issue for you then you will be interested in this 3D printer.  Also if you are living in a smaller sized apartment and you don't want you 3D printer to encroach on your living space then this 3D printer will be perfect for you.  If you are a beginner to 3D printing then you are also going to love this 3D printer for its ease of use, clever design and the fact that everything is included.  This
+This 3D printer is one of the most portable 3D Printers that we have reviewed on [**3D Printers King**](https://3dprintersking.com).  If you are looking for a very portable 3D printer and the build size is not an issue for you then you will be interested in this 3D printer.  Also if you are living in a smaller sized apartment and you don't want you 3D printer to encroach on your living space then this 3D printer will be perfect for you.  If you are a beginner to 3D printing then you are also going to love this 3D printer for its ease of use, clever design and the fact that everything is included.  
 
 [**Click here to check out the XYZ Printing Da Vinci Mini Wireless 3D Printer product listing on Amazon.com...**](#)
