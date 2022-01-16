@@ -19,10 +19,10 @@ showToc = true
 tags = ["Buying Guides"]
 title = "Are 3D Printers Really Worth it?"
 [cover]
-alt = ""
+alt = "are-3d-printers-really-worth-it"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/are-3d-printers-really-worth-it.png"
 relative = false
 [editPost]
 Text = ""
