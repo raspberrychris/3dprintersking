@@ -1,4 +1,5 @@
 +++
+Brands = "QIDI"
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowReadingTime = true
