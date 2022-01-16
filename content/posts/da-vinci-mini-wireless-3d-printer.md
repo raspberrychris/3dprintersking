@@ -61,6 +61,8 @@ The Da Vinci mini streamlines its printing function through a single-button prin
 
 ### Free 3D Modeling design software for beginners
 
+![CAD software](https://m.media-amazon.com/images/S/aplus-media/vc/9be95d7f-368b-48dd-a509-d3e3b06520b6._CR0,0,300,300_PT0_SX220__.jpg "CAD software")
+
 Make your dreams into reality with the FREE downloadable version of XYZmaker 3D modeling design software for beginners. Connector type: Wi-Fi .
 
 ## Who is the XYZ Printing Da Vinci Mini Wireless 3D Printer For?
