@@ -21,7 +21,7 @@ title = "Should I Buy a 3D Printer? - What are the Pros and Cons"
 alt = "Pros-and-cons-owning-3d-printer"
 caption = ""
 hidden = false
-image = "/uploads/pexels-vanessa-loring-7869229.jpg"
+image = "/uploads/pexels-vanessa-loring-7869229.webp"
 relative = false
 [editPost]
 Text = ""
