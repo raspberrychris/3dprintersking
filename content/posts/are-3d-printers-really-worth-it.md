@@ -65,6 +65,8 @@ If you have a 3D Printer you can save money by fixing things yourself. For examp
 
 This is what most people reading this post will be interested in. The answer is yes you can make money from 3D Printing! You can make anything that you can think of with 3D Printing. Examples of things that people have made that can be sold are jewelry, key fobs, vases and anything that is decorative or arty in general. Check out Etsy for more inspiration of what you can do with a 3D Printer and check out the prices that they are selling some of these items for. The good thing about having your own 3D Printing business is that you don't have to spend time making the items yourself, you can just set the 3D printer to make the items when they are purchased, almost like drop shipping but without the hassle of ordering products direct from China or anywhere else.
 
+{{< youtube u5feJ97e1zo >}}
+
 ## What are the disadvantages of owning a 3D Printer?
 
 Ok, so we have taken a considerable look at some of the main advantages of owning a 3D printer, in this section we will take some time to look at some of the disadvantages of 3D Printers.
