@@ -119,8 +119,8 @@ params:
 
     label:
         text: "3D Printers King"
-        icon: /static/uploads/icon2.png
-        iconHeight: 35
+        icon: /static/icon2.png
+        iconHeight: 100
 
     # analytics:
     #     google:
