@@ -32,9 +32,9 @@ appendFilePath = false
 +++
 ![Voxelab Aquila 3D Printer with Full Alloy Frame, Removable Build Surface Plate, Fully Open Source and Resume Printing Functio](https://images-na.ssl-images-amazon.com/images/I/61pCj0z8r0S._AC_UL604_SR604,400_.jpg)
 
-Welcome to the review of the [**Voxelab Aquila with Full Alloy Frame 3D Printer**](#).  In this post we will be taking a look at the features of this 3D printer from [**Voxelab**](#) and taking it through its paces to see how it performs against the competition.  
+Welcome to the review of the [**Voxelab Aquila with Full Alloy Frame 3D Printer**](#).  In this post we will be taking a look at the features of this 3D printer from [**Voxelab**](#) and taking it through its paces to see how it performs against the competition.
 
-> If you are not familiar with the [**Voxelab**](#) brand then you may be surprised to know that it is actually a sub-brand of [**FlashForge**](#).  The Voxelab brand is aimed at providing more affordable 3D printers at the consumer market for beginners and hobbyists on a lower budget.
+> If you are not familiar with the [**Voxelab**](/categories/voxelab) brand then you may be surprised to know that it is actually a sub-brand of [**FlashForge**](/categories/flashforge).  The Voxelab brand is aimed at providing more affordable 3D printers at the consumer market for beginners and hobbyists on a lower budget.
 
 ## Voxelab Aquila with Full Alloy Frame 3D Printer - What do customers who bought it think of it?
 
@@ -72,4 +72,4 @@ All Voxelab 3D printers provides Lifetime technical support and 12 months warran
 
 **4/5**
 
-If you are looking for an affordable entry 3D printer then this is really a good alternative to 3D printers such as the [**Ender 3 V2**](#) (which is it is basically a clone) or the [**FlashForge Adventurer**](#)**.**  In essence what you are getting here is a [**FlashForge 3D Printer**](#), but just with a different badge on it, so you can be sure that you are getting a quality product straight away.  In particular the build volume for this 3D printer is hugely impressive for a printer that is this affordable.  We haven’t seen another 3D printer at the time of writing that has a bigger build area at this price point.
+If you are looking for an affordable entry 3D printer then this is really a good alternative to 3D printers such as the [**Ender 3 V2**](/posts/official-creality-ender-3-3d-printer/) (which is it is basically a clone) or the [**FlashForge Adventurer**](#)**.**  In essence what you are getting here is a [**FlashForge 3D Printer**](#), but just with a different badge on it, so you can be sure that you are getting a quality product straight away.  In particular the build volume for this 3D printer is hugely impressive for a printer that is this affordable.  We haven’t seen another 3D printer at the time of writing that has a bigger build area at this price point.
