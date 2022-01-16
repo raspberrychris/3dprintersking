@@ -46,7 +46,7 @@ The [**Dremel Digilab 3D20 3D Printer**](https://www.amazon.com/gp/product/B00NA
 
 ## How does this printer compare to others on the market?
 
-In terms of popularity, this printer is not as popular as some of the other options that we have reviewed on the market such as the [**Official Creality Ender 3 3D Printer **](/posts/official-creality-ender-3-3d-printer/)or the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](posts/anycubic-mega-s-upgrade-fdm-3d-printer/).  It is a 3D printer that is extremely targeted at a certain market and therefore it's appeal may be restricted for some more advanced users of 3D Printers.
+In terms of popularity, this printer is not as popular as some of the other options that we have reviewed on the market such as the [**Official Creality Ender 3 3D Printer** ](/posts/official-creality-ender-3-3d-printer/)or the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](/posts/anycubic-mega-s-upgrade-fdm-3d-printer/).  It is a 3D printer that is extremely targeted at a certain market and therefore it's appeal may be restricted for some more advanced users of 3D Printers.
 
 ## Does it use PLA Filament?
 
@@ -97,12 +97,12 @@ You also get Dremel customer service support and industry’s best 1-year warran
 
 This is a great 3D Printer and we think that if you are a beginner or new user you will definitely like a lot of the features that this 3D Printer has.  It is also highly reliable in our tests, we found this 3D Printer to be more reliable than some of its close competitors at this price point.
 
-The [**Dremel Digilab 3D20 3D Printer**](#)  may however be restricting for more advanced users, which is why we have given it a slightly lower score than some of its competitors such as the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](posts/anycubic-mega-s-upgrade-fdm-3d-printer/)**.**
+The [**Dremel Digilab 3D20 3D Printer**](https://www.amazon.com/gp/product/B00NA00MWS/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00NA00MWS&linkId=d79e395c1a47a7eb8d3b0216382376c3)  may however be restricting for more advanced users, which is why we have given it a slightly lower score than some of its competitors such as the [**ANYCUBIC Mega S Upgrade FDM 3D Printer**](posts/anycubic-mega-s-upgrade-fdm-3d-printer/)**.**
 
 If you are a brand new user then you will likely to appreciate the fact that this 3D printer is very easy to use, is fully enclosed, has a small footprint and everything is based within the Dremel ecosystem. E.g. You have to use Dremel PLA filament. (A lot of advanced users criticise this particular element but we think that a lot of entry level users would not be too concerned that they could only use Dremel PLA filament).
 
 At this price point there are some very competitively priced 3D printers out there at the moment that have a lot of similar features, but this is a fantastic effort from Dremel it is a pleasure to use.
 
-[**Click here to jump to the Dremel Digilab 3D20 3D Printer Product Listing on Amazon.com**](#)**…**
+[**Click here to jump to the Dremel Digilab 3D20 3D Printer Product Listing on Amazon.com**](https://www.amazon.com/gp/product/B00NA00MWS/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00NA00MWS&linkId=d79e395c1a47a7eb8d3b0216382376c3)**…**
 
 ## 
