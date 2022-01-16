@@ -119,7 +119,7 @@ params:
 
     label:
         text: "3D Printers King"
-        icon: "icon2.png"
+        icon: /icon2.png
         iconHeight: 35
 
     # analytics:
