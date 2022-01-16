@@ -67,3 +67,7 @@ As responsive as operating on the phone, Meanwell Power Supply: Compliance with 
 ### Lifetime Tech Support
 
 All ANYCUBIC 3D printers backed with lifetime technical support
+
+## How does is compare with other 3D Printers on the market?
+
+![anycubic-3d-printers-comparison](/uploads/anycubic-3d-printers-comparison.png "anycubic-3d-printers-comparison")
