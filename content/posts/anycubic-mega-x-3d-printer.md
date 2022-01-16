@@ -42,9 +42,13 @@ Mega X 3D printer came in two modules and all it takes is to plug in 12 screws a
 
 ### High Print Precision
 
+![](https://m.media-amazon.com/images/I/71T6kyFU-QL._SX342_.jpg)
+
 his 3D Printer’s print precision is greatly improved by equipping it with Y Axis Dual Sideway Design and Z-axis dual screw rod design, The pitting in the skin and texture in the clothing all can shows up
 
 ### Large Build Volume
+
+![](https://m.media-amazon.com/images/I/71KibM6d+1L._SX342_.jpg)
 
 This FDM printer comes with larger build spaces available, At 11.81in(L) x 11.81in(W) x 12in(H), able to print models that 90% of other 3d printers could not. More space for fulfilling your fantastic idea
 
@@ -54,11 +58,11 @@ No hassle of sticker any more, Ultrabase bed surface coated with patented microp
 
 ### Resume Print
 
-One click to resume from the last recorded position when suffered power outages, TFT 
+One click to resume from the last recorded position when suffered power outages, TFT
 
 ### Touch Screen
 
-As responsive as operating on the phone, Meanwell Power Supply: Compliance with UL60950-1, enhance the safety performance, 
+As responsive as operating on the phone, Meanwell Power Supply: Compliance with UL60950-1, enhance the safety performance,
 
 ### Lifetime Tech Support
 
