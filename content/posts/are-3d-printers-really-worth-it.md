@@ -43,6 +43,8 @@ Below we will run through some of the advantages as we see them of owning a 3D p
 
 Owning a 3D printer is very enjoyable and the very act of watching your 3D printer whirr away creating your latest project is quite simply a magical experience.
 
+{{< youtube d4LRvhjrPI >}}
+
 ### It lets you be creative
 
 With a 3D printer, you can make whatever you like, whenever you like. Just load up your file and print away!
@@ -50,6 +52,8 @@ With a 3D printer, you can make whatever you like, whenever you like. Just load 
 ### It's quick!
 
 Creating a new part for an existing project or even prototyping a whole new idea takes a lot less time than with traditional methods of production. It's also very easy to experiment.
+
+{{< youtube a6XRs-g6ngw >}}
 
 ### You can save time and money
 
