@@ -40,7 +40,7 @@ languages:
                   url: /
                   weight: 10
                 - name: Brands
-                  url: "/categories/"
+                  url: "/brands/"
                   weight: 20
                 - name: Affiliate Disclosure
                   url: "/affiliate-disclosure/"
