@@ -100,10 +100,9 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Review of the BEST 3D Printers"
+        Title: "Reviews of the BEST 3D Printers"
         Content: >
             Welcome to 3dprintersking.com where we help you to make the right choice when purchasing your next 3D Printer! Browse our reviews and buying guides of the latest 3D printers.
-
 
             My name is Chris and I got into 3D Printing over the last couple of years, since then I have been documenting my findings on 3D Printing into this blog to share my opinion and reviews of the different 3D Printers out there.
 
