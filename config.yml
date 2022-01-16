@@ -119,8 +119,8 @@ params:
         appendFilePath: true # to append file path to Edit link
 
     label:
-        text: "Home"
-        icon: icon.png
+        text: "3D Printers King"
+        icon: icon1.png
         iconHeight: 35
 
     # analytics:
