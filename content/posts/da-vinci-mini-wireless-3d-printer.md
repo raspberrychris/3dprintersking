@@ -18,7 +18,7 @@ hidemeta = false
 searchHidden = false
 showToc = true
 tags = ["Review"]
-title = "XYZ Printing Da Vinci Mini Wireless 3D Printer"
+title = "XYZ Printing Da Vinci Mini Wireless 3D Printer - The most portable 3D Printer?"
 [cover]
 alt = ""
 caption = ""
