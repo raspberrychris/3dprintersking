@@ -45,4 +45,6 @@ The Da Vinci mini filaments are made using PLA plastics derived from corn starch
 
 The Da Vinci mini streamlines its printing function through a single-button printer design as well as providing different colored LEDs to indicate printing Conditions
 
-Make your dreams into reality with the FREE downloadable version of XYZmaker 3D modeling design software for beginners. Connector type: Wi-Fi (802.11b/g/n); USB 2.0
+Make your dreams into reality with the FREE downloadable version of XYZmaker 3D modeling design software for beginners. Connector type: Wi-Fi .
+
+## Our Verdict 
