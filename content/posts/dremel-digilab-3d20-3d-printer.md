@@ -1,4 +1,5 @@
 +++
+Brands = "Dremel"
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowReadingTime = true
@@ -104,4 +105,4 @@ At this price point there are some very competitively priced 3D printers out the
 
 [**Click here to jump to the Dremel Digilab 3D20 3D Printer Product Listing on Amazon.com**](#)**…**
 
-## 
+##
