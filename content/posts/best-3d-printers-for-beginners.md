@@ -134,6 +134,8 @@ In a nutshell, if you have the cash to spare and want a machine that allows for 
 
 ## **Original Prusa i3 MK3S+**
 
+![Original Prusa i3 MK3S+](/uploads/659d0545-51e9-49f2-8b43-a85cec069460.jpeg "Original Prusa i3 MK3S+")
+
 The original **Prusa i3 MK3s+** is a 3D printer for beginners that can hold its own against all the printers on this list. It offers exceptional print quality and easy operation, making it an excellent choice for home 3D printing enthusiasts alike!
 
 This high-end model represents quite literally another leap in price from our previous recommendations, which would make someone who was just getting started with DIY projects think twice before investing so much money into what could turn out to be only mediocre results - even though we know firsthand how great these machines typically perform once fully assembled.
