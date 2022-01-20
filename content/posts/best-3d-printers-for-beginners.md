@@ -68,7 +68,7 @@ The first on our list of the best 3D printers for beginners is the [**Anycubic M
 
 This budget friendly printer has a good build volume and comes with a heated bed and removable build plate, making it easy to use and relatively maintenance-free. The [**Mega Zero 2.0**](#) has a built-in RAMPS board, which can automatically detect whether a print is going in the right direction or not and will compensate accordingly.
 
-The user manual also shows step-by-step instructions on operating the printer with ease. The Ancubic Mega Zero 2.0 comes fully assembled and calibrated, making it ready to use right out of the box.
+The user manual also shows step-by-step instructions on operating the printer with ease. The Anycubic Mega Zero 2.0 comes fully assembled and calibrated, making it ready to use right out of the box.
 
 This 3D printer for beginners is straightforward enough for anyone with experience using a computer to figure it out but maybe too basic for those seeking more advanced features. The price point is unbeatable, considering the attractive features of this printer.
 
