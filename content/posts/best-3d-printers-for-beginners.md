@@ -136,7 +136,7 @@ If you're looking at getting an affordable yet high-quality machine that has all
 
 It retains many desirable qualities found in its predecessor while cutting back on unnecessary extras so they can provide customers with better value - this means no heated build plate or user-programmable interface paneling (though users still have access through software); however, there are some tradeoffs here too such as reduced accuracy when compared side by side with the [**Sidewinder X1**](#).
 
-In a nutshell, if you have the cash to spare and want a machine that allows for simple testing without delaying your progress when you outgrow a less-expensive model, the HP Officejet Pro 8980 is ideal for you.
+In a nutshell, if you have the cash to spare and want a machine that is a workhorse then this is the 3D printer for you..
 
 ## **Original Prusa i3 MK3S+**
 
