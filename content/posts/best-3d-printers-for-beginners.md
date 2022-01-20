@@ -1,13 +1,13 @@
 +++
-Brands = ""
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
-TocOpen = false
-author = ""
+Brands = "ANYCUBIC"
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+TocOpen = true
+author = "3D Printers King"
 canonicalURL = ""
 comments = false
-date = ""
+date = 2022-01-20T12:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
@@ -15,8 +15,8 @@ draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
-showToc = false
-tags = []
+showToc = true
+tags = ["Buying Guides"]
 title = "Best 3D Printers for Beginners"
 [cover]
 alt = ""
