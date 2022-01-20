@@ -106,6 +106,8 @@ When combined with the breadth of features and comparable-ish build quality and 
 
 ## **Monoprice Voxel**
 
+![Monoprice Voxel](/uploads/f8c424c0-b66d-465a-9178-b3b607da9d9a.jpeg "Monoprice Voxel")
+
 The **Monoprice Voxe**l is a unit that combines the simplicity of an enclosed 3D printer with the added benefit of a fully enclosed build chamber.
 
 The **Monoprice Voxel** uses Marlin as its firmware and ships with a print monitoring camera on top of the unit, which will allow you to watch your prints in real-time. Like some other printers on this list, the Monoprice Voxel comes with its slicer software to enable you to slice 3D models quickly.
