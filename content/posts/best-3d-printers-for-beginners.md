@@ -148,6 +148,8 @@ If you are entirely new to 3D printing, we recommend getting the kit version. Th
 
 ## **Flashforge Creator Pro 2**
 
+![Flashforge Creator Pro 2](/uploads/bdac4d7c-3a69-4a08-b44a-fe240f8db654.jpeg "Flashforge Creator Pro 2")
+
 If you're looking for a high-end 3D printer for beginners, the **Flashforge Creator Pro 2** is your best bet. You can get everything from an enclosed build volume and IDEX – which are two very desirable features in this industry! - all at just $800 bucks.
 
 It might not sound super reasonable, but when there are so many other expensive printers out on the market today? This one offer something different: Luxurious printing materials alongside advanced technology make up its design that will astound any builder or creator alike.
