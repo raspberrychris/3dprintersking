@@ -38,7 +38,7 @@ Regardless of your budget or experience with 3D printers, we've scoured the mark
 
 ## OUR TOP 3D PRINTER FOR BEGINNERS
 
-We picked the [**Original Prusa Mini+**](#) as our top pick because it delivers nearly all of our best-rated 3D printers (the Original Prusa i3 MK3S+) in a smaller form factor for less money. The Mini+ is a finely tuned 3D printer with a large community and excellent customer service behind it, despite having a smaller build volume than most other printers.
+We picked the [**Original Prusa Mini+**](#) as our top pick because it delivers nearly all of our best-rated 3D printers (the **Original Prusa i3 MK3S+**) in a smaller form factor for less money. The Mini+ is a finely tuned 3D printer with a large community and excellent customer service behind it, despite having a smaller build volume than most other printers.
 
 The [**Prusa**](#) printer is well-known in the 3D printing community and comes with an incredible amount of information about just about any issue you could encounter. And, if a company doesn't have it, the community most certainly will.
 
@@ -97,6 +97,8 @@ This Czech-based 3D printer for beginners is a kit that needs to be assembled bu
 The [**Original Prusa Mini+**](#) is supplied with a detachable PEI-coated metal bed, an auto bed-leveling probe, and outstanding customer service.
 
 It has a relatively small build volume of 180 x 180 x 180 mm, sufficient for most beginner prints.
+
+{{< youtube ipulB4_Xdm8 >}}
 
 This printer's instruction manuals are easy to follow and will help you assemble them quickly. And since the printer is closely related to the [**Original Prusa i3 MK3S+**](#), all of its parts are interchangeable with its bigger brother, a larger printer, since they share the same specs. This means that you can always upgrade to a larger kit.
 
