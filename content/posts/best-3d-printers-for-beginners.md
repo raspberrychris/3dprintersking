@@ -18,10 +18,10 @@ showToc = true
 tags = ["Buying Guides"]
 title = "Best 3D Printers for Beginners"
 [cover]
-alt = ""
+alt = "Best-3d-printers-beginners"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/zmorph-all-in-one-3d-printers-fb1vd3xt_zq-unsplash.jpg"
 relative = false
 [editPost]
 Text = ""
