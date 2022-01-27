@@ -29,8 +29,6 @@ URL = ""
 appendFilePath = false
 
 +++
-3d printing on a Glass Bed Explained
-
 In this article we will take a look at 3D printing on a glass bed. It is no surprise that for many this is considered the ultimate 3D printing surface for most printers in use today, as glass provides a durable and smooth finish. The many different types of 3D printer beds on offer mean there's something perfect suited to your needs.
 
 There are many reasons to print on glass, but it's important that you know whether or not your printer can handle the stress of a heavy-duty surface. My favorite thing about this guide is explaining all those differences between types - there truly isn't just one option when choosing how thickly layered something should be.
@@ -70,6 +68,10 @@ The short answer is that [**Borosilicate**](https://en.wikipedia.org/wiki/Borosi
 ## Hair spray and 3D printing... What?
 
 **Top Tip:** If you are looking to get good adhesion on your glass bed then you can spray hair spray across the bed. Any brand will do, but we tend to go for the cheaper hair sprays, which you should be able to find in most stores.
+
+## Why you should 3D Print on a Glass Bed (Video Explanation)
+
+{{< youtube 3UtMYx3dUfY >}}
 
 ## Conclusion
 
