@@ -18,10 +18,10 @@ showToc = true
 tags = ["Buying Guides"]
 title = "3D Printing on a Glass Bed Explained"
 [cover]
-alt = ""
+alt = "3D Printing on a Glass Bed Explained"
 caption = ""
 hidden = false
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-4-copy-1.webp"
 relative = false
 [editPost]
 Text = ""
