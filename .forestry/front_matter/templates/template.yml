@@ -89,6 +89,7 @@ fields:
     name: appendFilePath
     label: appendFilePath
 pages:
+- content/posts/3d-printing-on-a-glass-bed-explained.md
 - content/posts/anycubic-mega-s-upgrade-fdm-3d-printer.md
 - content/posts/anycubic-mega-x-3d-printer.md
 - content/posts/anycubic-photon-mono-3d-printer.md
