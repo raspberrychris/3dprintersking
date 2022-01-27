@@ -16,7 +16,7 @@ hideSummary = false
 hidemeta = false
 searchHidden = false
 showToc = true
-tags = []
+tags = ["Buying Guides"]
 title = "3D Printing on a Glass Bed Explained"
 [cover]
 alt = ""
