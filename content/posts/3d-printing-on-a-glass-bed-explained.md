@@ -11,7 +11,6 @@ date = 2022-01-27T12:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -52,9 +51,9 @@ One of the great things about glass is that the prints that come off it are some
 
 ## Price - Glass beds are not as expensive as you think
 
-Affordability. Glass beds are possible one of the best upgrades you can give your 3D Printer. You will find that on Amazon.com and other retailers there are glass beds that you can get at very affordable prices.
+Affordability. Glass beds are possible one of the best upgrades you can give your 3D Printer. You will find that [**on Amazon.com**](https://www.amazon.com/gp/product/B08CXLLCH4/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08CXLLCH4&linkId=e9c5001ff2fed520c9bb4866196ebfc0) and other retailers there are glass beds that you can get at very affordable prices.
 
-[**Check out this Ender 3 Glass Bed we found on Amazon.com here...**](http:/#)
+[**Check out this Ender 3 Glass Bed we found on Amazon.com here...**](https://www.amazon.com/gp/product/B08CXLLCH4/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08CXLLCH4&linkId=e9c5001ff2fed520c9bb4866196ebfc0)
 
 ## No more Scraping your prints off the bed
 
@@ -66,7 +65,7 @@ The glass we use on our windows and in jars is not the same as laboratory equipm
 
 ## So which is the best glass type for a 3D Printer?
 
-The short answer is that **Borosilicate** is the type of glass that you want for your glass bed on your 3D printer. It has a higher Thermal shock resistance than Soda-lime silicate and Phosphates glass types. It also has a high chemical resistance. If you are wondering what Thermal shock resistance is then it is simply a fancy way of saying the ability of the material to cope with dramatic changes in temperature, either when warming up or cooling down.
+The short answer is that [**Borosilicate**](https://en.wikipedia.org/wiki/Borosilicate_glass) is the type of glass that you want for your glass bed on your 3D printer. It has a higher Thermal shock resistance than Soda-lime silicate and Phosphates glass types. It also has a high chemical resistance. If you are wondering what Thermal shock resistance is then it is simply a fancy way of saying the ability of the material to cope with dramatic changes in temperature, either when warming up or cooling down.
 
 ## Hair spray and 3D printing... What?
 
