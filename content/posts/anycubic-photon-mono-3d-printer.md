@@ -74,7 +74,7 @@ Printing Speed: MAX 50mm/h
 
 ## ANYCUBIC Photon Mono 3D Printer - Who is it for?
 
-ANYCUBIC are one of the most respected brands that we have reviewed on our website.  They produce fantastic 3D Printers generally and this one is no exception.  If you are looking for an entry level 3D printer for a beginner and are new to 3D printing then you can’t go far wrong with the Photon Mono 3D printer.  It really does provide a lot of features for the money and also comes with great technical support so you won’t ever be caught in a situation where you can’t continue with your 3D printing.  That is what we really love about this 3D Printer!
+[**ANYCUBIC**](#) are one of the most respected brands that we have reviewed on our website.  They produce fantastic 3D Printers generally and this one is no exception.  If you are looking for an entry level 3D printer for a beginner and are new to 3D printing then you can’t go far wrong with the Photon Mono 3D printer.  It really does provide a lot of features for the money and also comes with great technical support so you won’t ever be caught in a situation where you can’t continue with your 3D printing.  That is what we really love about this 3D Printer!
 
 [**Click here to check out the ANYCUBIC Photon Mono 3D Printer on Amazon.com…**](#)
 
