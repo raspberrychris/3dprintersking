@@ -86,7 +86,7 @@ Printing Speed: MAX 50mm/h
 
 ## Video Review of the ANYCUBIC Photon Mono 3D Printer
 
-Check out this video review of the ANYCUBIC Photon Mono 3D Printer below.  
+Check out this video review of the ANYCUBIC Photon Mono 3D Printer below.
 
 {{< youtube kPRj6BI2B80 >}}
 
