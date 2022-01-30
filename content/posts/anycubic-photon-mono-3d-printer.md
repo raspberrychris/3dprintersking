@@ -33,7 +33,7 @@ appendFilePath = false
 +++
 ![ANYCUBIC Photon Mono 3D Printer, UV LCD Resin 3D Printer Fast Printing with 6.08'' 2K Monochrome LCD, Off-line Print 5.11"(L)](https://images-na.ssl-images-amazon.com/images/I/71anf3B9wmL._AC_UL604_SR604,400_.jpg)
 
-In this review we will be taking a look at the [**ANYCUBIC Photon Mono 3D Printer**](#).  To understand how this 3D Printer performs we will be taking it through its paces below and seeing who exactly this 3D Printer is for, what features it has and how it compares to other 3D Printers on the market.  We will rate the 3D Printer and also you can check out the video review below of the Photon Mono 3D Printer.  We hope you find this review useful.  Scroll down to learn more about the ANYCUBIC Photon Mono 3D printer!  If you are in a hurry and want to jump straight to the product listing on Amazon.com just click the link below to take you straight there and check it out.
+In this review we will be taking a look at the [**ANYCUBIC Photon Mono 3D Printer**](#).  To understand how this 3D Printer performs we will be taking it through its paces below and seeing who exactly this 3D Printer is for, what features it has and how it compares to other 3D Printers on the market.  We will rate the 3D Printer and also you can check out the video review below of the Photon Mono 3D Printer.  We hope you find this review useful.  Scroll down to learn more about the [**ANYCUBIC Photon Mono 3D printer**](#)!  If you are in a hurry and want to jump straight to the product listing on Amazon.com just click the link below to take you straight there and check it out.
 
 [**Click here to check out the ANYCUBIC Photon Mono 3D Printer on Amazon.com…**](#)
 
@@ -41,15 +41,22 @@ In this review we will be taking a look at the [**ANYCUBIC Photon Mono 3D Printe
 
 Of customers who bought this 3D printer on Amazon.com 79% of people who bought it gave it a rating of 5/5 stars.  This is definitely one of the highest ratings we have seen on this website and shows straight away that customers definitely love this 3D Printer.
 
+![](/uploads/cd1dba8f-9111-413b-a589-17c73649e85a.jpeg)
+
 Of the things that people who bought this 3D Printer love is the print quality, the great technical support and the fact that it is suitable for beginners.  The fact that it is also easy to set up as well really makes a difference and customers have commented that one of the things that makes this 3D printer great is the fact that it really is easy to get up and printing really quickly.
 
 [**Click here to check out the ANYCUBIC Photon Mono 3D Printer on Amazon.com…**](#)
 
 ## What are the main features of the Photon Mono 3D Printer?
 
+![2.5x-speed](/uploads/349e70ff-1823-415d-bb61-618e84e43bf5.jpeg "2.5x-speed")
+
 * 2.5X Faster Resin 3D Printer,ANYCUBIC Photon Mono 3D Printer's printing speed is 2.5X faster than the regular 3d printers, rapid prototyping greatly improved printing efficiency and saved more time, comes with a 6.08'' 2K Monochrome LCD and only takes 1.5 seconds per layer exposure to cure resin, whose service life is 4 times that of RGB LCD screen, save material and costs
 * High Accuracy and Strong Stability, ANYCUBIC Photon Mono LCD screen Adopts matrix parallel light source 15 pcs lamp beads, is able to carry out uniform exposure, improve the quality of models, Z-axis guide rail structure and stepper motor have better stability, with an accuracy of 0.01mm, it effectively eliminating layer patterns, It's a great 3D printer for printing games, movies, cartoon characters, miniatures, etc.
 * Outstanding Prints And Easy To Use, Off-line printing function with size 5.11"(L) x 3.14"(W) x 6.49"(H) / 130 x 80 x165MM, Photon Mono resin 3d printer uses a removable one-piece transparent cover to make the internal space of the machine, and the printer can be set to stop printing immediately after opening the cover, which is convenient to operate and see the printing process, Friendly use for beginners and good performance for the enthusiasts
+
+![Uv-blocking](/uploads/8a5fc73a-24aa-4fe1-9f4b-312283594793.jpeg "Uv-blocking")
+
 * The transparent cover blocks up to 99.95% of ultraviolet rays with a wavelength of 405nm, can be effective high resin solidification rate and ensure your success printing, reduce wasting of resin, New photon mono uses One-piece FEP, which can be easier and 
 
   quicker to replace
