@@ -90,6 +90,7 @@ fields:
     label: appendFilePath
 pages:
 - content/posts/10-fastest-3d-printers-under-1000-dollars.md
+- content/posts/10-quietest-3d-printers.md
 - content/posts/3d-printers-with-servo-motors.md
 - content/posts/3d-printing-on-a-glass-bed-explained.md
 - content/posts/anycubic-mega-s-upgrade-fdm-3d-printer.md
