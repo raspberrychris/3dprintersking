@@ -16,7 +16,7 @@ hideSummary = false
 hidemeta = false
 searchHidden = false
 showToc = true
-tags = []
+tags = ["Buying Guides"]
 title = "10 Quietest 3D Printers"
 [cover]
 alt = ""
