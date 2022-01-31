@@ -91,6 +91,8 @@ It is even possible to print out hyper-realistic face masks using 3D printers. T
 
 ## 10. **3D-Printed Dentures**
 
+{{< youtube 80WVopf8qUg >}}
+
 Another personal item that can be 3D printed is dentures. The patient bites down on a block of stone while wearing special goggles, similar to how it works for creating dentures at home. Then, the scanner uses this information to create a model in seconds that can be used in order to print out replacement teeth using an SLA machine.
 
 ## 11. **3D-Printed Toys**
