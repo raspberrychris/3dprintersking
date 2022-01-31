@@ -30,9 +30,7 @@ URL = ""
 appendFilePath = false
 
 +++
-**Can a 3D Printer Print Anything?**
-
-**What is 3D Printing?**
+## **What is 3D Printing?**
 
 3D printing is the process of creating three-dimensional objects from a digital file. The object is printed using a 3D printer, which deposits successive layers of material until the object is complete.
 
@@ -46,65 +44,65 @@ For example, the 3D printer used to manufacture a car would have a digital file 
 
 The printer would then print these parts, layer by layer. The printer would then assemble the individual pieces into a final product.
 
-**Can a 3D Printer Print Anything?**
+## **Can a 3D Printer Print Anything?**
 
 Yes, a 3D printer can print almost anything. The limitation of a 3D printer is usually the size of the object that it can print. A 3D printer can create an exact replica of the object for smaller objects. For larger objects, a 3D printer can create a replica that is close to the original object.
 
 A 3D printer can be used to create an almost limitless variety of objects—including toys, auto parts, and even building materials—as long as there is a digital file that instructs the machine on how to build the object, and the machine has a material with which to build it.
 
-**List of Items Printable by a 3D Printer**
+## **List of Items Printable by a 3D Printer**
 
 A 3D printer is a device that can create three-dimensional solid objects from a digital file. The objects are created by laying down successive thin layers of material until the object is complete. 3D printing has come a long way in recent years and can now print items such as hyper-realistic face masks, dentures, cars, houses, toys, jewelry, medical implants, eyeglasses, clothing and even food! Here is a partial list of some things that can be created using a 3D printer:
 
-1\. **3D-Printed Car**
+## 1. **3D-Printed Car**
 
 A car was printed for the first time in 2013 by Divergent Microfactories. Named "Blade", this open-source car has an aluminum chassis and four doors. It takes 44 hours to print the pieces, and it assembles just like any other car. The 3D printed parts only account for about half the weight of an average car, so it's much lighter than your typical gasoline-powered vehicle.
 
-2\. **3D-Printed Metal Gun**
+## 2. **3D-Printed Metal Gun**
 
 A 3D printer can be used to create guns made entirely out of metal because there is no need for plastic components usually used in traditional 3D printed guns. The metal gun was only printed out on a Stratasys printer, but it is capable of firing 50 rounds. It has successfully fired off 16 successful shots so far, with the barrel heating up after each shot, which leads to some accuracy issues.
 
-3\. **3D-Printed House**
+## 3. **3D-Printed House**
 
 A 1,100 square foot house was printed and assembled in 24 hours in China. This is a record for the fastest 3D-printed building constructed to date. These houses are modular, and metal beams hold them together like Legos.
 
-4\. **3D-Printed Car Part**
+## 4. **3D-Printed Car Part**
 
 Many cars use plastic parts that snap into place, such as the headlight. In the future, 3D printers could be used to print out replacement plastic parts instead of going to a mechanic and having them ordered from a supplier.
 
-5\. **3D-Printed Denture**
+## 5. **3D-Printed Denture**
 
 A denture can be created using a 3D printer. The process starts by scanning the mouth of the patient with a special device that uses lasers. Then, the patient bites down on a block of stone while wearing special goggles. The scanner uses this information to create a model in seconds that can be used in order to print out replacement teeth using an SLA machine.
 
-6\. **3D-Printed Toothbrush Handle**
+## 6. **3D-Printed Toothbrush Handle**
 
 Toothbrushes are another product that can be 3D printed. The handle and bristles are all printed together to create a finished toothbrush. The bristles will be printed out in an antimicrobial material, while recycled plastic bottles create the handle.
 
-7\. **3D-Printed Food**
+## 7. **3D-Printed Food**
 
 A company named 3D Systems recently announced that they have successfully used their food printer to make chocolate shaped like a dinosaur. The printer could also be used to print out other foods, such as pasta.
 
-8\. **3D-Printed Jewelry**
+## 8. **3D-Printed Jewelry**
 
 Another product that can be 3D printed is jewelry. A ring or necklace can be designed using a CAD program and then downloaded for printing. Other types of personal decorations are also possible with this method, including wedding rings.
 
-9\. **3D-Printed Carving of a Face Mask**
+## 9. **3D-Printed Carving of a Face Mask**
 
 It is even possible to print out hyper-realistic face masks using 3D printers. These are incredibly detailed and are created by scanning the face of the person who will be wearing it using a special scanner that eXo Platform developed. This method is very accurate because the mask can be printed out in sections and then assembled to fit the size of the wearer's head.
 
-10\. **3D-Printed Dentures**
+## 10. **3D-Printed Dentures**
 
 Another personal item that can be 3D printed is dentures. The patient bites down on a block of stone while wearing special goggles, similar to how it works for creating dentures at home. Then, the scanner uses this information to create a model in seconds that can be used in order to print out replacement teeth using an SLA machine.
 
-11\. **3D-Printed Toys**
+## 11. **3D-Printed Toys**
 
 Children can have fun with 3D printers because they can print out toys. An example of this is the popular game Minecraft, which was created using 3D models. If kids have a 3D printer at home, they can print out objects from the game. There are also plastic action figures that can be printed using this method.
 
-12\. **3D-Printed Clothing**
+## 12. **3D-Printed Clothing**
 
 One of the final products that are created using 3D printers is clothing. The process starts by designing what will be printed on a computer program. Then, special printers use this design to print out the clothing item one thin layer at a time. This is more efficient than traditional methods because items can be created without needing the services of tailors or sewing machines.
 
-**Advantages of 3D Printing Over Traditional Manufacturing Methods**
+## **Advantages of 3D Printing Over Traditional Manufacturing Methods**
 
 3D printers are becoming increasingly popular because they offer many advantages over traditional manufacturing methods, including speed. If an object is damaged, it can also be easily reprinted.
 
