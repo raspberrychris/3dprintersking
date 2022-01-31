@@ -32,7 +32,7 @@ appendFilePath = false
 +++
 ## **What is 3D Printing?**
 
-3D printing is the process of creating three-dimensional objects from a digital file. The object is printed using a 3D printer, which deposits successive layers of material until the object is complete.
+3D printing is the process of creating three-dimensional objects from a digital file. The object is printed using a 3D printer, which creates multiple different layers of material until the object is ready.
 
 A 3D printer can print a wide variety of objects, but there are some limits to what a 3D printer can do. The most limiting aspect is that the printer needs to have a digital file that instructs it on how to build the object. Without the digital file, the machine cannot know how to construct an object.
 
