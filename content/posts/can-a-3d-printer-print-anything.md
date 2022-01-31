@@ -100,6 +100,8 @@ Children can have fun with 3D printers because they can print out toys. An examp
 
 ## 12. **3D-Printed Clothing**
 
+{{< youtube 3s94mIhCyt4 >}}
+
 One of the final products that are created using 3D printers is clothing. The process starts by designing what will be printed on a computer program. Then, special printers use this design to print out the clothing item one thin layer at a time. This is more efficient than traditional methods because items can be created without needing the services of tailors or sewing machines.
 
 ## **Advantages of 3D Printing Over Traditional Manufacturing Methods**
