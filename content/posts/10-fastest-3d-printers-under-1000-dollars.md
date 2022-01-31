@@ -1,13 +1,13 @@
 +++
-Brands = ""
-ShowBreadCrumbs = false
-ShowPostNavLinks = false
-ShowReadingTime = false
-TocOpen = false
-author = ""
+Brands = "Creatbot"
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+TocOpen = true
+author = "3D Printers King"
 canonicalURL = ""
 comments = false
-date = ""
+date = 2022-01-31T00:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
@@ -15,7 +15,7 @@ draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
-showToc = false
+showToc = true
 tags = []
 title = "10 Fastest 3D Printers Under 1000 Dollars"
 [cover]
@@ -48,9 +48,7 @@ They have the potential to revolutionize the way we manufacture products, and th
 
 If you're in the market for a 3D printer, check out this list of 10 of the fastest 3D printers under 1000 dollars.
 
-## 1. **Creatbot Tech I3 Plus**
-
-3D Printer
+### **1. Creatbot Tech I3 Plus 3D Printer**
 
 The CreatBot Tech I3 Plus 3D printer is a superb starter level printer that's still packed with features. It has an all metal hot end, touch screen controls, and can print down to 100 microns.
 
