@@ -106,15 +106,15 @@ The [**Zortrax M200**](#) has an automated bed leveling system to increase accur
 
 [**Image Credit: Makerbot.com**](#)
 
-The [**Makerbot Replicator Mini**](#) is a smaller version of the popular Replicator 2X 3D printer. It has a build volume of 4" x 5" x 5", with a minimum layer height of 0.1 mm and an unheated print bed that allows for PLA prints.
+The [**Makerbot Replicator Mini**](https://www.amazon.com/MakerBot-MP05925EU-Replicator-Compact-Standard/dp/B00IK28TEY?crid=1D3L3RDUXA30W&keywords=makerbot+replicator+mini&qid=1643750787&sprefix=makerbot+replicator+mini%2Caps%2C132&sr=8-6&linkCode=ll1&tag=3dprintersking-20&linkId=ca2e04f5baf57a83177ca926079eaac5&language=en_US&ref_=as_li_ss_tl) is a smaller version of the popular Replicator 2X 3D printer. It has a build volume of 4" x 5" x 5", with a minimum layer height of 0.1 mm and an unheated print bed that allows for PLA prints.
 
-The [**MakerBot Replicator Mini,**](#) arguably one of the quietest 3D printers on the market, uses non-toxic PLA filament that won't emit harmful fumes into the air or leave residue on your objects.
+The [**MakerBot Replicator Mini,**](https://www.amazon.com/MakerBot-MP05925EU-Replicator-Compact-Standard/dp/B00IK28TEY?crid=1D3L3RDUXA30W&keywords=makerbot+replicator+mini&qid=1643750787&sprefix=makerbot+replicator+mini%2Caps%2C132&sr=8-6&linkCode=ll1&tag=3dprintersking-20&linkId=ca2e04f5baf57a83177ca926079eaac5&language=en_US&ref_=as_li_ss_tl) arguably one of the quietest 3D printers on the market, uses non-toxic PLA filament that won't emit harmful fumes into the air or leave residue on your objects.
 
 It has an easy-to-use touchscreen and can print with ABS filament as well if you've got a heated bed.
 
-The [**Makerbot Replicator Mini**](#) is ready to use right out of the box. It comes fully assembled, and all you have to do is level the print bed before your first use.
+The [**Makerbot Replicator Mini**](https://www.amazon.com/MakerBot-MP05925EU-Replicator-Compact-Standard/dp/B00IK28TEY?crid=1D3L3RDUXA30W&keywords=makerbot+replicator+mini&qid=1643750787&sprefix=makerbot+replicator+mini%2Caps%2C132&sr=8-6&linkCode=ll1&tag=3dprintersking-20&linkId=ca2e04f5baf57a83177ca926079eaac5&language=en_US&ref_=as_li_ss_tl) is ready to use right out of the box. It comes fully assembled, and all you have to do is level the print bed before your first use.
 
-[**To learn more about your options for 3D printers, visit Makerbot.com.**](#)
+[**To learn more about your options for 3D printers, visit Makerbot.com.**](https://www.amazon.com/MakerBot-MP05925EU-Replicator-Compact-Standard/dp/B00IK28TEY?crid=1D3L3RDUXA30W&keywords=makerbot+replicator+mini&qid=1643750787&sprefix=makerbot+replicator+mini%2Caps%2C132&sr=8-6&linkCode=ll1&tag=3dprintersking-20&linkId=ca2e04f5baf57a83177ca926079eaac5&language=en_US&ref_=as_li_ss_tl)
 
 ## **MakerBot Replicator Z18**
 
