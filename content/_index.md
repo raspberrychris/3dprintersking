@@ -1,7 +1,7 @@
 ---
 title: Blog
-summary: Contains posts related to `PaperMod`
-description: Contains posts related to PaperMod
+summary: Reviews of the Best 3D Printers
+description: Welcome to 3D Printers King! Check out our latest reviews and buying guides on 3D Printing!
 draft: false
 
 ---
