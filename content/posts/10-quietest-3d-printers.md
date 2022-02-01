@@ -136,13 +136,13 @@ It also has an adjustable sound enclosure that dampens vibration and increases p
 
 ![](https://m.media-amazon.com/images/I/81B5HEsFgTL._SX466_.jpg)
 
-The [**FlashForge Creator Pro**](#) is a solid printer with a large build volume of 225 x 145 x 150 mm and an unheated bed perfect for PLA prints. Being one of the quietest printers on the list and having a running noise of 50dB, it has a minimum layer height of 50 microns and a heated build plate.
+The [**FlashForge Creator Pro**](https://www.amazon.com/FlashForge-Creator-Pro-Spools%EF%BC%8CFully-Optimized/dp/B09BZFCFH9?crid=36WUGPFA91EPJ&keywords=Flashforge+creator+pro&qid=1643750967&sprefix=flashforge+creator+pro%2Caps%2C152&sr=8-3&linkCode=ll1&tag=3dprintersking-20&linkId=53e329528d4e033d80d5910263f9dc1b&language=en_US&ref_=as_li_ss_tl) is a solid printer with a large build volume of 225 x 145 x 150 mm and an unheated bed perfect for PLA prints. Being one of the quietest printers on the list and having a running noise of 50dB, it has a minimum layer height of 50 microns and a heated build plate.
 
-The [**FlashForge Creator Pro**](#) prints with PLA filament, emitting fewer fumes than ABS or other non-PLA filaments. The printer has a maximum nozzle temperature of 260°C (500°F) and is extremely easy to use thanks to the LCD screen that allows you to create custom profiles for different filament types.
+The [**FlashForge Creator Pro**](https://www.amazon.com/FlashForge-Creator-Pro-Spools%EF%BC%8CFully-Optimized/dp/B09BZFCFH9?crid=36WUGPFA91EPJ&keywords=Flashforge+creator+pro&qid=1643750967&sprefix=flashforge+creator+pro%2Caps%2C152&sr=8-3&linkCode=ll1&tag=3dprintersking-20&linkId=53e329528d4e033d80d5910263f9dc1b&language=en_US&ref_=as_li_ss_tl) prints with PLA filament, emitting fewer fumes than ABS or other non-PLA filaments. The printer has a maximum nozzle temperature of 260°C (500°F) and is extremely easy to use thanks to the LCD screen that allows you to create custom profiles for different filament types.
 
 The [**FlashForge Creator Pro**](#) comes ready to use right out of the box and has a self-leveling bed, so you don't have to worry about calibrating your printer before each print.
 
-[**To learn more about your options for 3D printers, visit FlashforgeUSA.com.**](#)
+[**Check out the product listing for the FlashForge Creator Pro here on Amazon.com…**](https://www.amazon.com/FlashForge-Creator-Pro-Spools%EF%BC%8CFully-Optimized/dp/B09BZFCFH9?crid=36WUGPFA91EPJ&keywords=Flashforge+creator+pro&qid=1643750967&sprefix=flashforge+creator+pro%2Caps%2C152&sr=8-3&linkCode=ll1&tag=3dprintersking-20&linkId=53e329528d4e033d80d5910263f9dc1b&language=en_US&ref_=as_li_ss_tl)
 
 ## **BCN3D Sigma**
 
