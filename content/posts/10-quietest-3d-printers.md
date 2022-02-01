@@ -86,19 +86,19 @@ The Lulzbot Mini comes fully assembled and is ready to use right out of the box.
 
 [**To learn more about your options for 3D printers, visit Lulzbot.com.**](https://www.lulzbot.com/)
 
-## **Zortrax M200 Plus**
+## **Zortrax M200**
 
 ![](https://m.media-amazon.com/images/I/61aiRuGPewL._SX522_.jpg)
 
-The [**Zortrax M200** ](#)is a reliable, user-friendly 3D printer that rotates objects to prevent warping on medium to large size prints up to 200 x 200 x 180 mm. It's one of the quietest printers we have tested, making it great for home or office use.
+The [**Zortrax M200** ](https://www.amazon.com/Zortrax-M200-Printer-Official-Covers/dp/B00NVTQ9JS?ie=UTF8&linkCode=ll1&tag=3dprintersking-20&linkId=3cf15854ffb4d7cb5ed15455036f397e&language=en_US&ref_=as_li_ss_tl)is a reliable, user-friendly 3D printer that rotates objects to prevent warping on medium to large size prints up to 200 x 200 x 180 mm. It's one of the quietest printers we have tested, making it great for home or office use.
 
-The [**Zortrax M200**](#) has a minimum layer height of 0.4 mm and comes with an easy-to-use interface that allows you to create your own custom profiles for different types of filament.
+The [**Zortrax M200**](https://www.amazon.com/Zortrax-M200-Printer-Official-Covers/dp/B00NVTQ9JS?ie=UTF8&linkCode=ll1&tag=3dprintersking-20&linkId=3cf15854ffb4d7cb5ed15455036f397e&language=en_US&ref_=as_li_ss_tl) has a minimum layer height of 0.4 mm and comes with an easy-to-use interface that allows you to create your own custom profiles for different types of filament.
 
 The build plate heats up to 120°C (248°F), and the unit also sports a non-toxic filament that won't emit harmful fumes.
 
 The [**Zortrax M200**](#) has an automated bed leveling system to increase accuracy, useful for more detailed prints. It comes with one roll of filament, and the print bed is removable for easier cleaning.
 
-[**To jump straight to the product listing on Amazon.com click here...**](#)
+[**To jump straight to the product listing of the Zortrax M200 on Amazon.com click here...**](https://www.amazon.com/Zortrax-M200-Printer-Official-Covers/dp/B00NVTQ9JS?ie=UTF8&linkCode=ll1&tag=3dprintersking-20&linkId=3cf15854ffb4d7cb5ed15455036f397e&language=en_US&ref_=as_li_ss_tl)
 
 ## **MakerBot Replicator Mini**
 
