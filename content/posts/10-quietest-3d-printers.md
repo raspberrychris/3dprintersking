@@ -180,7 +180,7 @@ The [**CR-10S**](#) has a maximum layer height of 100 microns and supports Wi-Fi
 
 ## **Dremel DigiLab 3D45**
 
-The 3D45 3D printer from Dremel has a maximum build volume of 8 x 8 x 12 inches. It's compact and quiet, making it perfect for 3D printing in an office or home environment.
+[**The 3D45 3D printer**](#) from [**Dremel**](/brands/dremel) has a maximum build volume of 8 x 8 x 12 inches. It's compact and quiet, making it perfect for 3D printing in an office or home environment.
 
 The 3D45 is easy to use right out of the box. It comes with a three-year warranty, USB connectivity, and an LCD screen to monitor your 3D prints.
 
@@ -188,7 +188,7 @@ The 3D45 uses PLA filament housed in a cartridge attached to the 3D printer. Thi
 
 The 3D45 has a maximum layer height of 100 microns and a maximum nozzle temperature of 300°C (572°F). It comes with 3D design software, but you can also use it with your favorite 3D modeling software.
 
-**To learn more about your options for 3D printers, visit Dremel3d.com.**
+[**To learn more about your options for 3D printers, visit Dremel3d.com.**](#)
 
 ## **XYZprinting Da Vinci 3DWOX DP200 3D Printer**
 
@@ -212,6 +212,6 @@ The 3D printer has interchangeable nozzles and a heated bed for 3D printing with
 
 ## **Conclusion**
 
-3D printing is on the rise, and 3D printers can be noisy. If you're looking for a 3D printer that doesn't require much calibration before 3D printing each job and won't disturb your office or home environment with noise while it prints, we've put together this list of 10 quiet 3D printers to help guide your decision. 
+3D printing is on the rise, and 3D printers can be noisy. If you're looking for a 3D printer that doesn't require much calibration before 3D printing each job and won't disturb your office or home environment with noise while it prints, we've put together this list of 10 quiet 3D printers to help guide your decision.
 
 We hope you found this article helpful and you manage to find the perfect 3D Printer that won't keep the neighbours awake at night!
