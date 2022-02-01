@@ -42,7 +42,7 @@ appendFilePath = false
 
 3D printing is growing in popularity for a variety of reasons. First, technology is becoming more accessible and affordable. 3D printers can now be found in home schools and the businesses world.
 
-Second, 3D printing is versatile. [**The range of objects that can be created using 3D printing technology is vast and ever-growing**](https://3dprintersking.com/posts/can-a-3d-printer-print-anything/). Some printers can create plastic toys, metal motorcycle parts, human organs, and much more.
+Second, 3D printing is versatile. [**The range of objects that can be created using 3D printing technology is vast and ever-growing**](/posts/can-a-3d-printer-print-anything/). Some printers can create plastic toys, metal motorcycle parts, human organs, and much more.
 
 Third, 3D printing is fast. Unlike traditional manufacturing methods that require time-consuming processes and specialized tools, 3D printers can create a three-dimensional object in minutes or hours.
 
@@ -62,7 +62,7 @@ In addition to these factors, you should also consider your budget when choosing
 
 3D printers also have different 3-year warranties depending on 3D printer type, 3D printer brand, 3D printer model, etc.
 
-Finally, another key factor is the noise level. Quietness isn't a huge factor in 3D printing, but 3D printers that are very quiet 3D print jobs are 3D printing neater, and you won't have to worry about complaints from 3D printer noise.
+Finally, another key factor is the noise level. Quietness isn't always the most important factor in 3D printing, but 3D printers that are very quiet 3D print jobs are 3D printing neater, and you won't have to worry about complaints from 3D printer noise.
 
 The more you know about 3D printers before purchasing one for your home or office setting, the easier it will be to choose the right 3D printer for you.
 
@@ -74,13 +74,13 @@ This article is about some of the quietest 3D printers that are currently on the
 
 ![](https://www.lulzbot.com/sites/default/files/mini_frontal_transparent_scaled_padded_UPDATED.png)
 
-[**Image Credit: Lulzbot.com**](#)
+[**Image Credit: Lulzbot.com**](https://www.lulzbot.com/)
 
-[**Lulzbot is a 3D printer company**](#) that specializes in open-source models. The Mini is a consumer-friendly, desktop version of the TAZ 4 printer, which means it's reliable and user-friendly.
+[**Lulzbot is a 3D printer company**](https://www.lulzbot.com/) that specializes in open-source models. The Mini is a consumer-friendly, desktop version of the TAZ 4 printer, which means it's reliable and user-friendly.
 
 It sports a 32 bit ARM controller running grbl 1.0f - a machine controller software made for CNC milling machines. This eliminates noise from belts and motors.
 
-The [**Lulzbot Mini**](#) is known for its reliability, quietness, and ease of use. The print bed heats to an impressive 120°C, preventing larger prints' warping. It also uses non-toxic filament that won't emit harmful fumes into the air or leave residue on your objects.
+The [**Lulzbot Mini**](https://www.lulzbot.com/) is known for its reliability, quietness, and ease of use. The print bed heats to an impressive 120°C, preventing larger prints' warping. It also uses non-toxic filament that won't emit harmful fumes into the air or leave residue on your objects.
 
 The Lulzbot Mini comes fully assembled and is ready to use right out of the box. It has a build volume of 160 x 160 x 180 mm, with a minimum layer height of 0.2 mm and a maximum nozzle temperature of 350°C (662°F).
 
