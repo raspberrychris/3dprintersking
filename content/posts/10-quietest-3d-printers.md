@@ -34,7 +34,7 @@ appendFilePath = false
 
 ### **Introduction**
 
-3D printing is an additive manufacturing technology where three-dimensional objects are created from a digital file. They range from plastic toys to metal motorcycle parts and everything in between.
+3D printing is a manufacturing technology where three-dimensional objects are created from a digital file. They range from plastic toys to metal motorcycle parts and everything in between.
 
 [**Chuck Hull**](https://en.wikipedia.org/wiki/Chuck_Hull) invented the first 3D printer in 1980. Until the early 2000s, companies began developing consumer-friendly versions for everyday use.
 
