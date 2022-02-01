@@ -177,7 +177,7 @@ When it comes to 3D printers with servo motors, a few top contenders stand out f
 
 ## 1. **Prusa i3 MK3**
 
-![](https://m.media-amazon.com/images/I/81D0uZaEbrS._AC_UY218_.jpg)
+![Prusa i3 MK3](https://m.media-amazon.com/images/I/81D0uZaEbrS._AC_UY218_.jpg "Prusa i3 MK3")
 
 The [**Prusa i3 MK3**](#) is one of the latest 3D printers on the market. It has several features that make it an excellent printer for both novice and experienced users. Some of its key specifications include:
 
@@ -199,7 +199,7 @@ Prusa i3 MK3: [https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-3/](ht
 
 ## 2. **MakerBot Replicator+**
 
-![](https://m.media-amazon.com/images/I/61B5COkoBNL._SX522_.jpg)
+![MakerBot Replicator+](https://m.media-amazon.com/images/I/61B5COkoBNL._SX522_.jpg "MakerBot Replicator+")
 
 The MakerBot Replicator+ is an upgraded version of MakerBot's most popular 3D printer, the Replicator.
 
@@ -221,7 +221,7 @@ MakerBot Replicator+: [https://www.makerbot.com/3d-printers/replicator/](https:/
 
 ## 3. **FlashForge Creator Pro**
 
-![](https://m.media-amazon.com/images/I/61+c5qXVlLL._AC_SX466_.jpg)
+![FlashForge Creator Pro](https://m.media-amazon.com/images/I/61+c5qXVlLL._AC_SX466_.jpg "FlashForge Creator Pro")
 
 The FlashForge Creator Pro is among the most versatile printers on the market. It comes equipped with a number of specifications that make it an excellent choice for novice and experienced users alike. Some specifications of this model include:
 
