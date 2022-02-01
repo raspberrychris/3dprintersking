@@ -118,6 +118,10 @@ The [**Makerbot Replicator Mini**](#) is ready to use right out of the box. It c
 
 ## **MakerBot Replicator Z18**
 
+![](https://3qcbdntxdyb43ubh6h0b0qgz-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Desktop-MakerBot-Replicator-Z18-Product-Image.png)
+
+[**Image Credit: Makerbot.com**](#)
+
 The [**Makerbot Replicator Z18**](#) is a heavy-duty printer designed for high-volume applications. It has a whopping build volume of 18" x 24" x 18", making it perfect for industrial use or for those who want to print large objects.
 
 The [**Replicator Z18**](#) is the largest and heaviest 3D printer on this list, which means that it's also one of the quietest. The quietness of this printer comes from its build platform, which uses a belt to reduce the noise of motors.
@@ -126,9 +130,11 @@ It also has an adjustable sound enclosure that dampens vibration and increases p
 
 [**The Replicator Z18**](#) is ready to use right out of the box. It comes fully assembled and is perfect for industrial or home settings because it comes with a stand-alone filament system.
 
-**To learn more about your options for 3D printers, visit Makerbot.com.**
+[**To learn more about your options for 3D printers, visit Makerbot.com.**](#)
 
 ## **FlashForge Creator Pro**
+
+![](https://m.media-amazon.com/images/I/81B5HEsFgTL._SX466_.jpg)
 
 The [**FlashForge Creator Pro**](#) is a solid printer with a large build volume of 225 x 145 x 150 mm and an unheated bed perfect for PLA prints. Being one of the quietest printers on the list and having a running noise of 50dB, it has a minimum layer height of 50 microns and a heated build plate.
 
