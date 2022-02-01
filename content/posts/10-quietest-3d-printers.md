@@ -66,6 +66,10 @@ Finally, another key factor is the noise level. Quietness isn't always the most 
 
 The more you know about 3D printers before purchasing one for your home or office setting, the easier it will be to choose the right 3D printer for you.
 
+## How to quieten your 3D Printer with Stepper Motor Dampers (Video)
+
+{{< youtube vu80vctXaxQ >}}
+
 ## **Top Ten Quietest Desktop 3D Printers (in no particular order)**
 
 This article is about some of the quietest 3D printers that are currently on the market. I will also give you some helpful tips for finding a quiet printer to use at home or in an office setting.
