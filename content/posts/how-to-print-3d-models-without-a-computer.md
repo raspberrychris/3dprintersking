@@ -30,7 +30,6 @@ URL = ""
 appendFilePath = false
 
 +++
-
 ## **Introduction**
 
 In the past, 3D printing was exclusively a computer-based process. You needed to have a PC and special software installed to create your own objects.
@@ -69,17 +68,27 @@ The advent of 3D printing technology also democratized product development, allo
 
 ### **Aerospace**
 
+![Aerospace](/uploads/pexels-pixabay-104826.jpg "Aerospace")
+
 3D printing is being used to create prototypes of new aircraft components in the aerospace industry. This allows manufacturers to test new designs and modify them before committing to mass production.
 
 In addition, 3D printing is being used to create replacement parts for aging aircraft, which can save airlines millions of dollars in maintenance costs.
 
 ### **Robotics**
 
+![Robotics](/uploads/pexels-kindel-media-8566526.jpg "Robotics")
+
+Photo by [**Kindel Media**](https://www.pexels.com/@kindelmedia?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/low-angle-shot-of-robot-8566526/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
 3D printing is also playing a significant role in the development of robotics. Researchers use 3D printers to create custom parts and sensors for robots, making them stronger, faster, and more versatile.
 
 In addition, 3D printing is being used to create entire robots from scratch, including the chassis, gears, and electronics.
 
 ### **Automotive**
+
+![Mclaren](/uploads/pexels-garvin-st-villier-9452131.jpg "Mclaren")
+
+Photo by [**Garvin St. Villier**](https://www.pexels.com/@garvin-st-villier-719266?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/close-up-shot-of-a-car-9452131/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 The automotive industry is another area where 3D printing is really taking off. Automakers use this technology to produce new prototypes and even create custom parts that can't be made using conventional manufacturing techniques.
 
@@ -189,6 +198,8 @@ One of the main advantages is that it is faster than other types of 3D printing.
 
 ### **3 Benefits of SD Card 3D Printing**
 
+![Sd-card-3d-printing](/uploads/pexels-fernando-arcos-193057.jpg "Sd-card-3d-printing")
+
 SD card 3D printing is a newer technology that has many advantages over other types of 3D printing. One of the main advantages is that it is faster than other types of 3D printing. It also has a smaller footprint, so it takes up less space than other printers.
 
 SD card 3D printing is more affordable than other types of 3D printing. It doesn’t require expensive printers or materials, so it is a more affordable option for people who want to try out 3D printing.
@@ -199,7 +210,11 @@ SD card 3D printing is environmentally friendly. It uses less energy than other 
 
 ## **Case Study: SketchUp in 3D Printing Technology**
 
-SketchUp is a 3D drawing and modeling software that is easy to use and can create anything from simple sketches to detailed models.
+![Sketchup](/uploads/0c2d8f99-076d-4364-9d0a-7e72d030b040.png "Sketchup")
+
+[**Image Credit: Sketchup.com**](https://sketchup.com)
+
+[**SketchUp**](#) is a 3D drawing and modeling software that is easy to use and can create anything from simple sketches to detailed models.
 
 The software can be downloaded for free and is a great tool for designers of all levels of experience. With SketchUp, you can print your own designs with a home printer like the MakerBot Replicator 2x.
 
