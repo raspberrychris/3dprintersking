@@ -11,7 +11,6 @@ date = 2022-01-31T12:00:00Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = false
 searchHidden = false
@@ -96,9 +95,15 @@ For example, McLaren is currently using 3D printers to produce brake calipers fo
 
 ### **Education**
 
+![Education](/uploads/pexels-vanessa-loring-7869229-1.jpg "Education")
+
 3D printers have already had a significant impact on the educational system. They're being used to create everything from architectural models and interactive science exhibits for museums to custom prosthetics for students in need of a lower-cost option than what's currently on the market.
 
 ### **Health Care**
+
+![Heathcare](/uploads/pexels-cottonbro-6153562.jpg "Healthcare")
+
+Photo by [**cottonbro**](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/man-in-black-jacket-and-white-pants-wearing-black-nike-shoes-6153562/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 3D printers transform health care by allowing doctors to quickly, easily, and accurately create customized body parts. This has been a life-saving technology for patients suffering from tumors, cancer, and other devastating conditions.
 
@@ -108,7 +113,9 @@ In addition, doctors have used 3D printers to create custom hearing aids for chi
 
 ### **Fashion**
 
-3D printing is allowing fashion designers to create custom-fit clothing and accessories. In addition, this technology is being used to print shoes, hats, and even dresses made from the same 3D printer! Now that's a trend we can get behind!
+{{< youtube qCOanCRQQJQ >}}
+
+3D printing is allowing fashion designers to create custom-fit clothing and accessories. In addition, this technology is being used to print shoes, hats, and even dresses made from the same 3D printer!  Check out the above video where designer Sophy Wong takes us through her designing process in detail.
 
 ## **Is it Possible to Print 3D Models without a Computer?**
 
