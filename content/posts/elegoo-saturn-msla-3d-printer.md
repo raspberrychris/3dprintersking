@@ -36,7 +36,7 @@ In this review we will take a look at the **ELEGOO Saturn MSLA 3D Printer**.
 
 [**ELEGOO**](/brands/elegoo) will be a familiar brand to many and are well known for their print quality, ease of use, adhesion, unique design and helpful tech support.
 
-**Dimensions and build volume:**
+### **Key Specifications**
 
 **Frame dimensions:** 280 x 240 x 446 mm (11.02 x 9.44 x 17.55 in).  
 **Build volume:** 192 x 120 x 200 mm (7.55 x 4.72 x 7.87 in)
