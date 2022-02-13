@@ -30,7 +30,7 @@ URL = ""
 appendFilePath = false
 
 +++
-![ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin](https://images-na.ssl-images-amazon.com/images/I/61ccRUrkynL._AC_UL604_SR604,400_.jpg)
+![ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin](https://images-na.ssl-images-amazon.com/images/I/61ccRUrkynL._AC_UL604_SR604,400_.jpg "ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin")
 
 In this review we will take a look at the **ELEGOO Saturn MSLA 3D Printer**.  
 
@@ -47,7 +47,7 @@ So what actually do you get with this 3D Printer?  How does it compare to other 
 
 Find the answers to all of these questions below in our review of this stunning looking 3D Printer.  If you can’t wait, and want to jump straight to the review click the link below to jump straight to the product page.
 
-![](/uploads/1d6170bb-4728-4f4c-9663-31585f36e1bd.jpeg)
+![ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin](/uploads/1d6170bb-4728-4f4c-9663-31585f36e1bd.jpeg "ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin")
 
 **Image Above:** Shows the types of creations you can make with the Elegoo Saturn 3D Printer.
 
@@ -67,7 +67,7 @@ The printer comes with a high quality manual, flash drive with the sample rook, 
 
 Note: Post-processing is needed for resin 3D printing, which would involve model washing and re-curing.
 
-![](https://images-na.ssl-images-amazon.com/images/I/81YRTknX4OL._SL1600_.jpg)Image credit: via [BJRJ](https://m.media-amazon.com/images/I/81YRTknX4OL._CR412,0,1060,1060_UX175.jpg)
+![ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin](https://images-na.ssl-images-amazon.com/images/I/81YRTknX4OL._SL1600_.jpg "ELEGOO Saturn MSLA 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD, Matrix UV LED Light Source, Off-Lin")Image credit: via [BJRJ](https://m.media-amazon.com/images/I/81YRTknX4OL._CR412,0,1060,1060_UX175.jpg)
 
 ## **Features of the ELEGOO Saturn MSLA 3D Printer**
 
