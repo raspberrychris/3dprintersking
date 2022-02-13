@@ -1,4 +1,5 @@
 +++
+Brands = ""
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowReadingTime = true
@@ -31,7 +32,11 @@ appendFilePath = false
 +++
 ![ANYCUBIC Photon Mono X 3D Printer, UV LCD Resin Printer with 8.9" 4K Monochrome Screen, WiFi Control and Fast Printing, Print](https://images-na.ssl-images-amazon.com/images/I/61NfUXG4pLL._AC_UL604_SR604,400_.jpg 'ANYCUBIC Photon Mono X 3D Printer, UV LCD Resin Printer with 8.9" 4K Monochrome Screen, WiFi Control and Fast Printing, Print')
 
-In this post we will be reviewing the [**ANYCUBIC Photon Mono X Resin 3D Printer**](https://www.amazon.com/gp/product/B08JGH83VS/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08JGH83VS&linkId=21b3706c8ba3f3c9c85ef3c6c587021a)**.**  This 3D printer has a striking design from the outset and weighs 1.1 pounds.  The Photon Mono X has a 6k Resolution and an impressive 9.25" screen - which is one of the biggest we have reviewed.  In this review we will be taking this 3D printer through its paces to understand exactly how good it really is.  We will also compare it against other similar 3D Printers to see how they stack up against each other.  If you are in a hurry and want to jump straight to the product listing click the link below.
+In this post we will be reviewing the **ANYCUBIC Photon Mono X Resin 3D Printer.**  This 3D printer has a striking design from the outset and weighs 1.1 pounds.  
+
+The Photon Mono X has a 6k Resolution and an impressive 9.25" screen - which is one of the biggest we have reviewed.  In this article we will be taking this 3D printer through its paces to understand exactly how good it really is.  
+
+We will also compare it against other similar [**3D Printers**](/) to see how they stack up against each other.  If you are in a hurry and want to jump straight to the product listing click the link below.
 
 [**Click here to check out the ANYCUBIC Photon Mono X 3D Printer product review on Amazon.com...**](https://www.amazon.com/gp/product/B08JGH83VS/ref=as_li_tl?ie=UTF8&tag=3dprintersking-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08JGH83VS&linkId=21b3706c8ba3f3c9c85ef3c6c587021a)
 
