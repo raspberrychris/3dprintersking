@@ -17,7 +17,7 @@ hidemeta = false
 searchHidden = false
 showToc = true
 tags = ["Review"]
-title = "VOXELAB Aries 3D Printer"
+title = "VOXELAB Aries 3D Printer - The Perfect Beginners 3D Printer?"
 [cover]
 alt = "Voxelab-aries-3d-printer"
 caption = ""
