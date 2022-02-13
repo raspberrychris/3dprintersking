@@ -1,5 +1,5 @@
 +++
-Brands = ""
+Brands = "Voxelab"
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowReadingTime = true
